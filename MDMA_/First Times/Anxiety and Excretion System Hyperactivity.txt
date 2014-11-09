@@ -1,0 +1,122 @@
+
+
+Erowid Experience Vaults: MDMA (Ecstasy) - Anxiety and Excretion System Hyperactivity - 23068
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000;  }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #000000; padding-bottom: 4px; }
+#message-inner-sm { font-size: 10pt; padding-top: 5px; padding-bottom: 2px; color: #000000; padding-bottom: 3px; line-height: 17px; }
+
+
+New Membership Gift--Ltd. Ed. Art Print
+
+"Solve et Elucido" is a fantastic signed & numbered reverberating giclee print 
+available for a $500 level donation. It is 12" x 12", on canvas, signed
+by the artist as well as Erowid founders Earth and Fire.
+
+
+
+
+	var mTimeExpired = 1414037012000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=242&page_url=/experiences/exp.php&Q&ID=23068&E&"); 
+	}
+
+
+
+
+
+
+Anxiety and Excretion System Hyperactivity
+MDMA (Ecstasy)
+by yvette176
+Citation:   yvette176. "Anxiety and Excretion System Hyperactivity: An Experience with MDMA (Ecstasy) (ID 23068)". Erowid.org. Feb 16, 2006. erowid.org/exp/23068
+
+
+
+ 
+
+
+
+
+DOSE:
+1 tablet
+oral
+MDMA
+
+
+
+
+
+BODY WEIGHT:
+210 lb
+
+
+
+
+
+I was given a 'mitsubishi'-looking pill by a friend of mine.  I took it at a well-known dance club in chicago on gay night.  I thought I would have a well-being feeling, would feel connected, and would have an experience similar to other first-timers that had a positive experience.  The crowd on gay night is very accepting (and, from what i've heard, very heavy X users), so I thought I'd be okay, surrounded by 'family'.
+
+In fact, it was the opposite.  When it hit me, I immediately became anxious, like 'this is horrible - when does it end?'  my digestive system began functioning on what I can only call a 'hyperactive' state - I had to use the bathroom three times in one half-hour.  The toilets were so crowded I had to cut in line, apologizing, and then immediately go to the back of the line to use them again.  I was so tense I thought my brain was going to explode.  Worse yet, my car was in a parking lot that would close at 5am, and if I didn't get it out of the lot, it would get towed.  This meant that I had to drive.  I could have drove it about 100' to street parking:  even if it was an illegal spot, and I got ticketed, that was better than getting stopped while driving while toasted.
+
+But because I was toasted, I didn't think correctly, and I decided to drive.  This was worse than any acid trip I ever took in the '60s.  [Erowid Note: 
+Driving while intoxicated, tripping, or extremely sleep deprived is dangerous and irresponsible because it endangers other people. Don't do it!] 
+
+I drove to a hotel not far away.  It was the worst drive of my life.  If a cop had stopped me, I would have been arrested.  For me, based on my sexual orientation and gender, that *could not* happen.  I didn't think about what to do with the car before taking the X - *Big Mistake*.  It was one of the most tense, anxious nights of my life.
+
+At the hotel, within minutes *everyone* knew I was toasted.  My pupils must have been the size of dimes.  I went up to my room, went to bed, and just shook for hours.
+
+Was it X?  Was it speed?  Was it cut with baby laxative?  What was it?  I don't know and I don't care.  *I will NEVER take it or anything purporting to be it again*.  Reality feels so good now, I hardly even drink, and take no 'recreational pharmaceutical' drugs whatsoever.
+
+Some people say X is wonderful.  I say the whole thing sucked.  At the end of the day, it's your body, it's your brain, it's your life.  Caveat emptor.  Whatever you do, do NOT drive.  Please!
+
+
+Exp Year: 2001ExpID: 23068
+Gender: Female 
+Age at time of experience: Not Given 
+Published: Feb 16, 2006Views: 10,858
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

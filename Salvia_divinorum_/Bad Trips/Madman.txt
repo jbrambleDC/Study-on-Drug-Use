@@ -1,0 +1,116 @@
+
+
+Erowid Experience Vaults: Salvia divinorum - Madman - 9153
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #000000; }
+#message-inner-sm { font-size: 9pt; padding-top: 5px; padding-bottom: 2px; color: #000000; }
+
+
+Erowid is a one-of-a-kind resource
+
+We are an educational non-profit dedicated to providing a balanced
+examination of psychoactive drugs and drug use--to reduce harms,
+improve benefits, and support appropriate policies. The site is made
+possible by $5, $10, and $50 donations from visitors. Please pitch in!
+
+
+
+	var mTimeExpired = 1414038245000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=211&page_url=/experiences/exp.php&Q&ID=9153&E&"); 
+	}
+
+
+
+
+
+
+Madman
+Salvia divinorum
+by XoOn
+Citation:   XoOn. "Madman: An Experience with Salvia divinorum (ID 9153)". Erowid.org. Dec 5, 2003. erowid.org/exp/9153
+
+
+
+ 
+
+
+
+
+DOSE:
+1.5 bowls
+smoked
+Salvia divinorum
+(extract - 10x)
+
+
+
+
+
+BODY WEIGHT:
+125 lb
+
+
+
+
+
+I was at a friends house, lot of people there. I picked up the salvia 2 days before and tried it with minimal effects. This time I asked my one buddy to accompany me in the car while I did it.  I get into my car and pack the bowl and start hitting it. After I was done, I went completely numb, I felt as though my body and brain were completely dead. I sat in this expierence for a couple minutes when the song that was playing in the car said 'step inside'.
+
+Well that must have fired something off in my brain because seconds later I was desperately trying to pack the bowl with more salvia, I thought that if I smoked more I would be able to 'step inside'. First hit off the bowl and I was gone. It was like the first bowl just kept me on some plateau and the next hit blew me into space. I definitely got to step inside, but that wasn't a good thing. I was transported to some crazy place... and all I can imagine was a lady that was showing me something. I can't even put words to it b/c it was just like raw emotion. At this point I got extremely terrified. More scared then i've ever been in my life. I frantically wanted out of the car and to lay on the grass, i thought that was my only escape. Once I got out of the car, I completely changed.
+
+Into a MADMAN.
+
+I started laughing  hysterically, not a fun laugh, but a very very evil laugh. I was kneeling in between my car and the car door. I started to swear and say horrible things. A pizza delivering boy was coming up the drive way and I kept talking about killing him. And killing people at the party. It was disgusting to say the least. After a while I went back into the car. I couldn't even control my head, it kept going back and forth and hitting the side of the car. Then I had to go to the grass again. I hit the grass and started to swear and spit. After a while it wore off and I was back to normal. To even try to explain a salvia trip is nearly impossible. I don't think there are words to describe what you feel. Anyway, that is the last time I'm going to do salvia in a loong time.
+
+
+Exp Year: 2001ExpID: 9153
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Dec 5, 2003Views: 33,950
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

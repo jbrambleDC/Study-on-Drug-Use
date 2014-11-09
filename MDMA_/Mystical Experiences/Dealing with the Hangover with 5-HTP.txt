@@ -1,0 +1,146 @@
+
+
+Erowid Experience Vaults: MDMA - Dealing with the Hangover with 5-HTP - 8661
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #000000; }
+#message-inner-sm { font-size: 9pt; padding-top: 5px; padding-bottom: 2px; color: #000000; }
+
+
+Erowid is a one-of-a-kind resource
+
+We are an educational non-profit dedicated to providing a balanced
+examination of psychoactive drugs and drug use--to reduce harms,
+improve benefits, and support appropriate policies. The site is made
+possible by $5, $10, and $50 donations from visitors. Please pitch in!
+
+
+
+	var mTimeExpired = 1414037006000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=211&page_url=/experiences/exp.php&Q&ID=8661&E&"); 
+	}
+
+
+
+
+
+
+Dealing with the Hangover with 5-HTP
+MDMA
+by hi
+Citation:   hi. "Dealing with the Hangover with 5-HTP: An Experience with MDMA (ID 8661)". Erowid.org. Aug 8, 2001. erowid.org/exp/8661
+
+
+
+ 
+
+
+
+
+DOSE: T+ 0:00
+1 tablet
+oral
+MDMA
+(pill / tablet)
+
+
+  T+ 3:00
+1 tablet
+oral
+MDMA
+(pill / tablet)
+
+
+  T+ 8:00
+200 mg
+oral
+Tryptophan
+(capsule)
+
+
+  T+ 32:00
+50 mg
+oral
+Tryptophan
+(capsule)
+
+
+  T+ 56:00
+50 mg
+oral
+Tryptophan
+(capsule)
+
+
+  T+ 80:00
+50 mg
+oral
+Tryptophan
+(capsule)
+
+
+
+
+
+BODY WEIGHT:
+205 lb
+
+
+
+
+
+
+OK I've done E three times and think I have some usefull info to contribute.  The first time I dropped one tab on a whim at a friends house with a small group of people.  I rolled very hard and ended up spending the night with a girl, cuddling and talking etc.  It was a great experience, but the whole next week I was very down, definetely depressed.  The second time I dropped another tab from the same batch one month later and rolled just as hard as the first.  This time I did a little reading and took a bunch of antioxidants afterwards.  This cleared my head up much quicker, but I still was very depressed for almost a whole week.  So this third time, a month later, I dropped two tabs, three hours apart, and had another great time.  This time afterwards I took 200mg of 5-HTP, followed by 50mg a day for three days.  I had no depression!  I would say that within 48 hours I felt totally normal.  This is somehat unusual as far as I understand.  I highly recommend that people use this with E.  Next time I plan to load up on it in the hours before hand to see if it makes the high better.  I'll let you guys know how it works.  I should also say that I wrestle in college and have found that meditating in the time between coming down and going to bed has improved my wrestling VERY drastically(Without practice!  This is quite amazing.  I basically beat people I had never beaten before, without stepping on the mat in between.)  I recommend you try this with something that is important to you. Thanks to all for the experience reports, you have been an invaluable resource.
+
+
+Exp Year: 2001ExpID: 8661
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Aug 8, 2001Views: 27,613
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

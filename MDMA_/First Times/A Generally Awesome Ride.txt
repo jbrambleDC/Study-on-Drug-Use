@@ -1,0 +1,122 @@
+
+
+Erowid Experience Vaults: MDMA (Ecstasy) - A Generally Awesome Ride - 13126
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.thumb { border: 1px solid #ffcc44; margin-top: 2px; }
+#message { background: #3333cc; border: 1px solid #000000; height: 44px; }
+#message-inner-lg { font: 700 13pt georgia,times,serif; color: #ffcc44; padding-top: 2px; padding-bottom: 1px; }
+#message-inner-sm { font: 700 9pt arial,sans-serif; color: #ffbb33; }
+
+
+
+
+Get your Erowid "Words" T-shirt
+Contribute $45 to Erowid Center and show your support!
+
+
+
+
+	var mTimeExpired = 1414037012000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=232&page_url=/experiences/exp.php&Q&ID=13126&E&"); 
+	}
+
+
+
+
+
+
+A Generally Awesome Ride
+MDMA (Ecstasy)
+by Ret
+Citation:   Ret. "A Generally Awesome Ride: An Experience with MDMA (Ecstasy) (ID 13126)". Erowid.org. Feb 18, 2005. erowid.org/exp/13126
+
+
+
+ 
+
+
+
+
+DOSE:
+1 tablet
+oral
+MDMA
+
+
+
+
+
+BODY WEIGHT:
+145 lb
+
+
+
+
+
+My girlfriend had tried MDMA twice and wanted me to join in one night with she and her friends.  I swallowed the pill (a 5-point star) at about 10pm.  We shortly after went outside to smoke a cigarette.  After about 30  minutes i noticed a sudden interest in everything that was going on around me.  I'd never taken 'x' before so I had no clue what to expect.  All of a sudden it hit me.  I had the most wonderful feeling of inner peace, and I wanted everyone around me to be happy.  The emotional stimulation I felt was wonderful.  
+
+However, the physical sensations I felt were totally mind-blowing.  My girlfriend put a techno CD into the CD player and turned the volume up as high as it would go.  I started to move my arms, hands, and head fluidly to the music.  It felt as if I was telling a story with my body.  Every once in a while I'd stop just to touch my face.  A couple hours had passed and the euphoric feeling was still going strong.  We decided to go for a drive.  Playing more techno in the car, I started dancing fluidly again.  I felt no sense of boredom, although we drove for about 2 hours.  One of my girlfriend's friends then got a phone call.  Someone wanted us to pick him up and drop him off at a friends house.  Seeing as there were already 5 people in the car, my girlfriend had to sit on my lap.  The girl driving rolled down a window.  I started to get cold, and I think being so squished made me start losing the feeling of euphoria that I was so in love with.  
+
+My girlfriend and I then decided to go to my house. When I got in my truck to drive home the feeling slammed me again, and I spiraled back into heaven. 
+
+[Erowid Note: 
+Driving while intoxicated, tripping, or extremely sleep deprived is dangerous and irresponsible because it endangers other people. Don't do it!] 
+
+After being home for a few minutes, my girlfriend and i started kissing.  Kissing led to the most intense, emotional, intercourse I've ever had.  We then both went to sleep.
+
+Well, at least she went to sleep.  At this point (about 3am), I was no longer feeling the effects of the drug at all.  My mind felt very clouded, and I had a lot of trouble sleeping.  Actually, I didnt sleep at all that night.  However, the next afternoon, my brother had some cannibus and wanted to smoke with me.  After we smoked, I started feeling the effects of the mdma again.  I felt like I had taken another pill.  Everything was the exact same euphoria that it had been the night before.
+
+After the effects wore off, I felt very detached, some would call it 'strung out.'  I had a complete lack of interest in doing anything.  I still couldnt sleep.  I just had to deal with the misery and wait until night came.  Finally, out of sheer exhaustion, I fell asleep at about 1am, a day after I had taken the pill.  Although I had a lot of trouble sleeping, the effect of the drug made the sleeplessness well worthwhile.  The experience of MDMA is not something that anyone can just describe on paper or verbally.  The only way to know how wonderful MDMA makes a person feel is to actually try it.  However, be careful about using too much in a short period of time.
+
+
+Exp Year: 2002ExpID: 13126
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Feb 18, 2005Views: 8,568
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

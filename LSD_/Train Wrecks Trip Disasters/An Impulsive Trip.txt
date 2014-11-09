@@ -1,0 +1,106 @@
+
+
+Erowid Experience Vaults: LSD - An Impulsive Trip - 1995
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #eebb00; border: 1px solid #000000; }
+   #message a:link { color: black; }
+   #message a:visited { color: black; }
+#message-inner-md { font: 700 10pt georgia,times,serif; color: #111111; }
+   #message-inner-md a:link { color: #0000cc; }
+   #message-inner-md a:visited { color: #0000cc; }
+#message-inner-sm { font: 700 9pt georgia,times,serif; color: #111111; }
+
+Erowid provides information about psychoactive drugs to educate, to reduce harms, and to support much needed policy change.
+
+
+
+	var mTimeExpired = 1414039007000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=189&page_url=/experiences/exp.php&Q&ID=1995&E&"); 
+	}
+
+
+
+
+
+
+An Impulsive Trip
+LSD
+by P.S.P.
+Citation:   P.S.P.. "An Impulsive Trip: An Experience with LSD (ID 1995)". Erowid.org. Jun 20, 2000. erowid.org/exp/1995
+
+
+
+ 
+
+
+
+
+DOSE:
+5 hits
+oral
+LSD
+(blotter / tab)
+
+
+
+
+
+
+My next door nieghbor and i do a lot of acid but he was in charter during this time so he came home on pass. i went over to his house and we decided to get some acid. so i was looking all day but couldn't find any so i was gonna go to the store with this one crazy guy who buys me beer and he asked this guy if he had any weed he said no but he had acid. so i met up with him at his apartment complex and got 14 hits of acid. went back to my house and called my friend and he came over so we each ate 5 hits of mad hatter acid.
+
+i started to feel real fucked up really fast so i told my friend to go home and call me in a half an hour, because i felt like i couldn't even talk or move so when he did not call me in 2 hours i went up to his balcony and opened his window i thought i saw two people in there but i was trippin' hard so he jumps out of his window naked and pushed me! and i said what the hell are you doing and he kept on saying he was a pure ball of energy. so i said put some clothes on and lets go to the park, because we had this park in our nieghborhood we liked to trip in. but he didnt and just climbed down his balcony naked and started walking around. 
+
+then my other friend showed up to buy the reamaining 4 hits i had. and my friend tried to push him and he socked him but it didnt faze him. so he started walking down a main roud at like 3:30 am and i stayed in front of his house trying to think of what to do when i saw a cop car fly by so i went down to the corner and my friend got mased by a cop and when the cops asked me if i had any lsd tonight i said no and they shined the light in my eyes and still didnt know!!!!!!! but the cops face was just melting but i will never forget that night ......it's stuck in my mind.
+
+
+Exp Year: 1999ExpID: 1995
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Jun 20, 2000Views: 11,643
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

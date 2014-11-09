@@ -1,0 +1,102 @@
+
+
+Erowid Experience Vaults: MDMA (Ecstasy) - Spiritual Expansion - 96980
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #3333cc; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12pt georgia,times,serif; color: #ffcc44; }
+#message-inner-sm { font: 700 10pt arial,sans-serif; color: #ffcc44; }
+
+Tough economic times hurt Erowid Center.
+Help by making a small contribution.
+
+
+
+	var mTimeExpired = 1414038076000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=137&page_url=/experiences/exp.php&Q&ID=96980&E&"); 
+	}
+
+
+
+
+
+
+Spiritual Expansion
+MDMA (Ecstasy)
+by Respondent 68
+From Ecstasy.org Collection
+Citation:   Respondent 68. "Spiritual Expansion: An Experience with MDMA (Ecstasy) (ID 96980)". Erowid.org. Jul 23, 2012. erowid.org/exp/96980
+
+
+
+ 
+
+
+
+
+DOSE:
+  
+oral
+MDMA
+
+
+
+
+
+The only reason I take E is for spiritual expansion of my own consciousness. It has allowed me to be my true self more completely. I am less inhibited, yet it doesn't make me do anything I would not want to do, it just helps me get in touch with the inner wellspring of courage that I so often do not realize is there.
+
+Ecstasy has also ignited major spiritual growth in my life. I have experienced kundalini energy rise up my spine while dancing at raves, although the biggest lesson I learned from E is that I should take more risks, because 9 times out of 10, I will be successful. Magical things happen for months after a successful trip.
+
+23-year old mother
+
+
+Exp Year: ExpID: 96980
+Gender: Female 
+Age at time of experience: 23 
+Published: Jul 23, 2012Views: 1,546
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

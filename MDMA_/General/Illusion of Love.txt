@@ -1,0 +1,318 @@
+
+
+Erowid Experience Vaults: MDMA - Illusion of Love - 18348
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1414038923000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=18348&E&"); 
+	}
+
+
+
+
+
+
+Illusion of Love
+MDMA
+by tollla
+Citation:   tollla. "Illusion of Love: An Experience with MDMA (ID 18348)". Erowid.org. Oct 22, 2002. erowid.org/exp/18348
+
+
+
+ 
+
+
+
+
+DOSE:
+100 mg
+oral
+MDMA
+(powder / crystals)
+
+
+
+
+
+BODY WEIGHT:
+64 kg
+
+
+
+
+
+
+This experience took place on 2001 summer vacations. I was in a camping park with some friends of mine. We had a vast supply of weed and some grams of coke, but I also took 1/2 gram of pure MDMA (in crystal form) withouth the knowledge of my friends. I was saving it for some special ocasion, and the oportunity came in the 4th day. We met a group of girls who were camping in the park. We went out to a bar, had some nice conversations, smoked a few joints... let's just say we got along pretty well. I was particulary atracted to one of them, a divinely beautiful blonde girl. I spent some time alone with her in my tent, and she asked me if I could get her some pills. That was the oportunity! I said I had something a lot better than pills, pure crystals of MDMA. She was very interested in taking some with me, so we decided to go out for a walk at night, to the beach, just the two of us.
+
+At dinner, we ate only a light vegetable soup at a restaurant and went to my tent. I split the crystals in 5 nearly equal parts, crushed 2 into powder and wraped it in some paper. Each one of us swallowed 1, and we went to the city. It didn't took 20 minutes to hit me. I began to feel a little nauseated and uncomfortable, but this feeling wore off quickly and I began to feel the blissful efect of MDMA, pretty strongly: strong body waves, energy and that lovely feeling of empathy. She was feeling nothing at the time, but 10 minutes later it hit her.
+
+We were both happy and euphoric, smiling and laughing a lot when we finally reached the beach. We took off our shoes and started walking on the sand. The tactile sensation on my foot was awesome, the sand seemed like a very soft thing, like walking in velvet. I was feeling quite floaty at the time as well, but the real high began when we both sat down on the sand and begun to talk about our lives. I told all my life problems to a girl I had met a couple days before, and so did she. I wouldn't do this at all if I was sober, I am a pretty reservated person, but at that time, it didn't matters, I trusted her more than I would trust my best friend if I was sober. She also told me her problems, and I hugged her and said 'não te preocupes, não importa o que aconteça, estarei sempre ao teu lado, para sempre' ('don't worry, no matter what happens I will always be on your side, forever' in portuguese :) ). That was intended by both of us as a declaration of love, and we kissed. 
+
+That was probably the most intense sensation I have ever felt, her lips touching mine, it was an indescribable feeling, believe me. I felt truly in love with that girl, like I'd never felt before. She was the most beautiful and wonderful person in the world to my eyes. We both said we loved each other very very much. For the next 4 hours, we kept walking on the beach, sitting on the sand, having deep personal conversations and kissing and licking each other.
+
+But when the effects started to wear off, things got tense between us. I began to realise I had told things that I wouldn't tell to anybody (except for my very best friend) to a stranger, and I think she also thought the same. We stoped talking, and just stared to each other. I was depressed because of the drug comedown and because I had sworn eternal love to a person that I didn't love, the intense love feeling betwen was nothing but an ilusion created by the drug. I got up and said that it was better to go to the camping park again, and she agreed. Fortunatly, on our way, she started to talk about what happened, and we both agreed that we felt nothing but a physical atraction by each other, and that we should forget that night. 
+
+I've never seen her again since. I must admit, I never felt such a magic feeling like that night, it was far better than my first time (which was in a club), but be warned: when you do MDMA you may easily misjudge your feelings. I won't take it again with a girl, unless I love her for real
+P.L.U.R. [[[]]]
+
+
+Exp Year: 2001ExpID: 18348
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Oct 22, 2002Views: 35,267
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

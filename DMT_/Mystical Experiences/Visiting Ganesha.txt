@@ -1,0 +1,129 @@
+
+
+Erowid Experience Vaults: LSD & DMT - Visiting Ganesha - 42199
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #99ff66; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #1111aa; }
+#message-inner-md { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+#message-inner-sm { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+
+You've Helped Erowid Reach New Heights!
+More than 1,060 of you donated during our Public Support Drive
+Thanks for supporting reliable harm-reduction information about psychoactive drugs!
+
+
+
+	var mTimeExpired = 1413952413000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=260&page_url=/experiences/exp.php&Q&ID=42199&E&"); 
+	}
+
+
+
+
+
+
+Visiting Ganesha
+LSD & DMT
+by FireWithin
+Citation:   FireWithin. "Visiting Ganesha: An Experience with LSD & DMT (ID 42199)". Erowid.org. Jun 29, 2005. erowid.org/exp/42199
+
+
+
+ 
+
+
+
+
+DOSE: T+ 0:00
+  
+oral
+LSD
+ 
+
+
+  T+ 3:00
+  
+smoked
+DMT
+(freebase)
+
+
+  T+ 4:00
+  
+smoked
+DMT
+(freebase)
+
+
+
+
+
+BODY WEIGHT:
+170 lb
+
+
+
+
+
+Tonight I was going to try LSD for the first time. Before then, I had experimented several times with DMT. My friend told me that having an acid trip would help make me more sensitive to DMT, and in turn would induce a very strong trip. It did exactly that.
+
+While a few hours into the acid trip, I took a regular dose of DMT and I got the usual effects from it. I was one of those people that were insensitive to the substance. I waited for an hour or so before trying it again. During my wait I meditated on my thoughts. This time it was dramatically stronger than any DMT experience I ever had.
+
+As soon as I took the second hit and exhaled, the walls of the room were suddenly covered with ancient runes, and my friend sitting next to me turned into something like a wooden and liquid-in-nature Native American. He turned into his true form. My eyes were wide open during almost the entire trip. During every second of the trip I began to see many dimensions that didn't exist in real life. I could see brand new spatial dimensions, including the original ones: length, height, and depth. Finally all space collapsed and time ceased to exist. I was stuck in the real world, the world that lasted for eternity. I closed my eyes in complete awe after realizing that I was dead. I found out that the living world was actually illusory, and that space and time did not even exist. At this point I was worried if I would ever come back to real life, after realizing that space and time were illusions. 
+
+The world was very elephant-like at this point. Then I saw the architect of the universe. It was a goddess, in the form of Indian deity Ganesha. The mere sight of this goddess gave me so much bliss that it was too difficult for my mind to comprehend. She was the soul of the universe, and she was constantly creating very intricate Indian-like structures out of thin air. She showed me the doorway to eternal bliss (heaven), and she invited me into her kingdom. I pleaded with her to take me back to the real world, because I needed to make sense of all this before I make such a decision. She was sad, but she let me go. Slowly time and space appeared again, and I came back to the realm of the living.
+
+I m not sure exactly what happened, but now I know that I have nothing to worry about when I die. To experience such dimensions and such bliss from a drug-induced trip was quite amazing. To this day I refuse to believe that what I experienced was merely a hallucination. I was stuck in that realm for eternity, because time actually didnt exist there. But the trip, in reality, only lasted about five minutes.
+
+
+Exp Year: 2005ExpID: 42199
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Jun 29, 2005Views: 256,120
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

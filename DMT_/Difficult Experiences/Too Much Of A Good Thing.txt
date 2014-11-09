@@ -1,0 +1,99 @@
+
+
+Erowid Experience Vaults: DMT - Too Much Of A Good Thing - 92146
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ffcc55; border: 1px solid #000000; }
+#message-inner-lg { font: 700 10.5pt georgia,times,serif; color: #220000; }
+#message-inner-md { font: 700 10.5pt arial,sans-serif; color: #220000; padding-bottom: 5px; }
+#message-inner-sm { font: 700 13pt georgia,times,serif; color: #660000; }
+
+More than 2 million people use Erowid every month...
+but only 100 of those contribute financially.
+If you use Erowid, PLEASE DONATE!
+
+
+
+	var mTimeExpired = 1413952258000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=179&page_url=/experiences/exp.php&Q&ID=92146&E&"); 
+	}
+
+
+
+
+
+
+Too Much Of A Good Thing
+DMT
+by HeatherH
+Citation:   HeatherH. "Too Much Of A Good Thing: An Experience with DMT (ID 92146)". Erowid.org. Jul 27, 2011. erowid.org/exp/92146
+
+
+
+ 
+
+
+
+
+DOSE:
+1 hit
+smoked
+DMT
+
+
+
+
+
+My boyfriend filled up the tip of a copper crack pipe with the orange jelly DMT substance.  Mind you this is the second time that I have smoked DMT, the first time didn't work at all for me.  We figured a large amount was what was needed to get me off.  He sat me down in the corner of the garage on a rocking chair.  Held the crack pipe to my mouth and told me to inhale slow, long, and hold for as long as I could.  I held it and held it and held it.  The world started to melt away. Everything became black, as soon as the full darkness hit color came out of no where. I opened my eyes and was standing next to my boyfriend, watching this girl on the garage floor freak out.  She was throwing up all over herself, ripping her rings off her fingers, screaming, and pulling out her hair.  It wasn't until I came fully out of the trip that I realized the girl on the floor was me.  Oddly enough the terrifying 4 minute episode left me energized, in a good way.
+
+
+Exp Year: 2011ExpID: 92146
+Gender: Female 
+Age at time of experience: 22 
+Published: Jul 27, 2011Views: 3,420
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

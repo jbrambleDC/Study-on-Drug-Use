@@ -1,0 +1,328 @@
+
+
+Erowid Experience Vaults: DMT - Corridor of Everything - 66145
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1413951771000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=66145&E&"); 
+	}
+
+
+
+
+
+
+Corridor of Everything
+DMT
+by Jon
+Citation:   Jon. "Corridor of Everything: An Experience with DMT (ID 66145)". Erowid.org. Feb 25, 2009. erowid.org/exp/66145
+
+
+
+ 
+
+
+
+
+DOSE:
+2 hits
+smoked
+DMT
+
+
+
+
+
+BODY WEIGHT:
+230 lb
+
+
+
+
+
+It was friday morning when my friend Ben and I decided to leave for Schwagstock, a massive music festival held in Salem, MO in light of Woodstock way back when. The drive to Salem from Maryland Heights took about 4 hours, during which we listened to music and filled the car with smelly vapors of happiness. Not much happened on the ride except for endless stretches of highway and open fields.  [Erowid Note: 
+Driving while intoxicated, tripping, or extremely sleep deprived is dangerous and irresponsible because it endangers other people. Don't do it!] 
+
+Upon arrival, we check in, are wished a 'happy Schwag', and follow the trail to our campground. The place we stayed at was known as 'Echo Bluff', and it is one of the six campgrounds throughout the area. Situated in practically the middle of nowhere, there are enormous expanses of forest. The campground itself was probably well over 300 acres and every bit of it was gorgeous. The crystal white bluff stood out in stark contrast to the vegetation and created wonderful reflections on the nearby creek, which people were swimming in.
+
+We exit Ben's jeep and begin our trek to find the music, and within the first five minutes of walking, someone addresses us.
+
+I believe his words were, 'You guys need some drugs?'
+
+To which I replied, 'Of course.'
+
+I acquire DMT, a substance I had been longing for for quite a while.
+
+I decide to try the DMT, since it only lasts, at most, twenty minutes. I pick a good spot in front of the bluff and go for it.
+
+Immediately, not ten seconds after I exhaled the second hit, my body starts to vibrate. I feel a tingling rising through me, from the pit of my stomach, spreading out over my entire body. I can only describe it as the most intense thing I have ever felt, as reality itself seemed to tremor and quake as if angered by my drug use. My head feels as though every bit of energy and every bit of life around me is spiraling to my brain. The rock face in front of me lights up to a brilliant shade of yellow, and patterns begin to take form. Geometric shapes that I had never seen danced around me as if they were aware of my presence. Despite what some may see as confusing, I understood perfectly what these shapes were and what they were trying to tell me. Simultaneously, the shapes melt into small boxes, each one with a question marks on each surface.
+
+By now, everything is radiating with life energy. Pulses of yellow and blue float through the air. Normal objects become fascinating relics that I am destined to discover and propagate throughout the globe. Within those question mark boxes lie the secrets to the universe, and it it my job to enlighten humanity to this. I must accomplish the mission, for if I do, people will stop killing people, and there will be no evil. On the face of the bluff, a face appears, made of pure energy and begins speaking to me in a language I at first do not understand, but as the being continues to speak, I start to comprehend what it says. At the time, I could understand and remember the words, but they are just a vague memory now.
+
+As I reach for one of the boxes, they start to spin again. As the boxes twist and orbit my disembodied mind. Soon....all I can really describe this as, 'reality', unfolded, and I saw everything.
+
+I look into a vast corridor, a hallway, that, within, contained everything. Needless to say, I felt wholly overwhelmed and this frightened me immensely. How could my consciousness handle seeing the entire universe at once? Was I going insane? Was it going to end? Would I be permanently damaged?
+
+I come back to reality, sitting in the same spot, laying on the ground, looking at the sky, perfectly fine.
+
+
+Exp Year: 2007ExpID: 66145
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Feb 25, 2009Views: 4,001
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

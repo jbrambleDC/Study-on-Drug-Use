@@ -1,0 +1,118 @@
+
+
+Erowid Experience Vaults: DMT - Waylands Smithy - 36375
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; border: 1px solid #000000; }
+#message-inner-md { font: 700 12pt georgia,times,serif; color: #000055; }
+#message-inner-sm { font-size: 9pt; color: #000000; }
+
+Donate Your Used Drug Books to Erowid
+If you have old books about psychoactive drugs, contribute them to Erowid!
+Your used books will find a good home either in our library or with a supporter. [details]
+
+
+
+	var mTimeExpired = 1413951794000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=241&page_url=/experiences/exp.php&Q&ID=36375&E&"); 
+	}
+
+
+
+
+
+
+Waylands Smithy
+DMT
+by Rami
+Citation:   Rami. "Waylands Smithy: An Experience with DMT (ID 36375)". Erowid.org. Aug 31, 2004. erowid.org/exp/36375
+
+
+
+ 
+
+
+
+
+DOSE:
+10 mg
+smoked
+DMT
+(powder / crystals)
+
+
+
+
+
+BODY WEIGHT:
+180 lb
+
+
+
+
+
+Location:			Waylands Smithy
+Time of Ingestion:		8:50pm 
+Set:				relaxed/peaceful
+
+So, I finally have the chance to try DMT in a suitable setting. Apart from a brief encounter with approximately 3mg earlier in the week this is my first real try with this legendary substance. 
+
+I prepared a makeshift pipe with 20mg of this sticky orange waxy substance and sat down under a beautiful old beech tree situated just to the left of the front elevation of Waylands Smithy and began to prepare myself in quiet reflection.
+
+When I felt ready I brought the pipe to my lips and applied the flame. Almost immediately white wisps of smoke began to boil off the surface of the now liquid DMT and I inhaled deeply. The taste/smell was typical indole and, not surprisingly, very much like DPT. The acridness of the smoke and a wave of fear caused me to hold back and I estimate that I got about 10mg of the original 20mg.
+
+Literally within minutes the effects made themselves felt. Colour intensity rose sharply as did texture/hue perception. A few seconds later the visual distortions began. Everything became fluid and danced with an enchanting energy  utterly bewitching. Interestingly (and unexpectedly) I noticed many parallels with 2CB including a peculiar effect I experience when perceiving 3D space that is very difficult to explain. The effects where still building fast and I began to see within this 3D space the chrysanthemum pattern associated with DMT. It was very beautiful - crystalline and colourful. At this point I began to hear a wonderful celestial chiming/ringing/singing that seemed to be calling me or was at least directed towards me. I also perceived a very strong presence that to me was a latticework of many things  too many to remember, but my Mum and Dad (or archetypal parents?) where a prominent element of this lattice and I began to feel that this was a perception of all divine possibility. As I contemplated this, the effects began to subside and I began to whisper thank you again and again  I was completely euphoric. I gathered myself up and began to make my way back to the camp unable to stop smiling and laughing. I continued to experience visual and mood enhancement for the next hour or so. I felt physically rejuvenated and totally at peace. Throughout the remainder of that evening I continued to recall aspects of the journey that I had forgot and compared experiences with Tim around the campfire. In retrospect it was probably a good thing that I only used half of the 20mg in the pipe. Considering the effects of 10mg I would have been a little startled by the effects of 20mg. The visual element of DMT was simply incredible. Although this experience was in no way strong, the patterning was incredibly complex and I discussed with other members of the group a need for a word that describes the property of populating surfaces or spaces with patterns.
+
+In all this was a very positive experience left me wanting to investigate the higher effects.
+
+
+Exp Year: 2004ExpID: 36375
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Aug 31, 2004Views: 23,418
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

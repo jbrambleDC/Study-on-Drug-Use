@@ -1,0 +1,116 @@
+
+
+Erowid Experience Vaults: Salvia divinorum - I Was A Teenage Oak Tree! - 104
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; height: 102px;  }
+#message-inner-lg { font: 700 14pt georgia,times,serif; color: #000000; padding-bottom: 4px; letter-spacing: .07em; }
+#message-inner-sm { font-size: 10pt; padding-top: 5px; padding-bottom: 2px; color: #000000; padding-bottom: 2px; line-height: 17px; }
+.crypto-logos { margin-right: auto; margin-left: auto; margin-top: 3px; }
+
+Donate to Erowid with Cryptocurrency
+
+We take Bitcoins and other cryptocurrencies to support practical information about
+psychoactive drugs. A great way to donate without lots of fees. Contribute a bit today!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1414038980000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=243&page_url=/experiences/exp.php&Q&ID=104&E&"); 
+	}
+
+
+
+
+
+
+I Was A Teenage Oak Tree!
+Salvia divinorum
+by Tree
+Citation:   Tree. "I Was A Teenage Oak Tree!: An Experience with Salvia divinorum (ID 104)". Erowid.org. Jul 29, 2001. erowid.org/exp/104
+
+
+
+ 
+
+
+
+
+DOSE:
+2 bowls
+smoked
+Salvia divinorum
+
+
+
+
+
+
+My previous attempts at having an experience on Salvia were a bust so I decided I wouldn't quit smoking till something happened. I sat down with my shitty homemade bong in my room. Its bowl is an actual tobacco pipe so it holds a little more than a 'bowl.'  I think I had polished off two bowls when I realized something was happening. I looked around my room to see if anything looked different.  Everything seemed the same but when I looked all the way to my left, my head froze in place and suddenly my whole body grew tense. I started to freak out a little at not being able to move but quickly reminded myself that it was just the drug and I should just let it ride.
+
+I closed my eyes and quit stuggling. That's when I realized that the tension of my whole body was just because I was turning into a tree (an oak tree!). The bark crept up my neck and my arms turned into branches. I could hear myself growing and creaking under the strain.  I soon realized that I, as a tree, was in a forest beside a small brook. It must have been fall because most of the other trees' leaves were covering the ground.  The thing about this forest was that I actually didn't 'see' it, it was more like a picture in my imagination that remained for the time I was under. Still, I knew it was a drug-induced visual. 
+
+Being a tree taught me how to live. It's really hard to explain it beyond that, but it was truly a mystical experience. I had a similar lesson with acid but Salvia was much more gentle and earthly. I'm not sure how long I was a tree. It felt like only a few minutes but I'm sure it could have been much longer. I felt really good about the experience afterwards and I plan on doing it again.
+
+
+Exp Year: 1999ExpID: 104
+Gender: Not Specified 
+Age at time of experience: Not Given 
+Published: Jul 29, 2001Views: 25,388
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,116 @@
+
+
+Erowid Experience Vaults: LSD & Cannabis - Odd Behavior - 42735
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #eeaa00; border: 1px solid #000000; }
+#message-inner-md { font: 700 13pt arial,sans-serif; letter-spacing: .05em; color: #111111; }
+#message-inner-sm { font: 700 9pt arial,sans-serif; color: #111111; padding-top: 8px; }
+
+Donate $125 and get a fantastic hand-made glass molecule.
+(Choose from chemicals like serotonin, caffeine, mescaline, DMT, or MDMA!)
+
+
+
+	var mTimeExpired = 1414039026000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=85&page_url=/experiences/exp.php&Q&ID=42735&E&"); 
+	}
+
+
+
+
+
+
+Odd Behavior
+LSD & Cannabis
+by Skizzle
+Citation:   Skizzle. "Odd Behavior: An Experience with LSD & Cannabis (ID 42735)". Erowid.org. Jul 11, 2007. erowid.org/exp/42735
+
+
+
+ 
+
+
+
+
+DOSE:
+2 hits
+oral
+LSD
+
+
+ 
+  
+smoked
+Cannabis
+
+
+
+
+
+BODY WEIGHT:
+140 lb
+
+
+
+
+
+I am submiting this report at around 2:40 PM, at around 10:30 the previous night me and a few close friends decided to ingest some LSD for the night and have some fun. We ate 2 hits apeice and then watched Fargo. Towords the woodchipper scene the normal giggling and body chills set in. After it ended we smoked smoke pot and watched another movie. During this we were all sitting in the living room, which is also where my computer is located. 
+
+Being quite comfortable with psychoactives I was feeling fine and decided to see how a computer game would be. After activating the program I leaned back to zone out a little while it was loading. This is when somehow I became unconcious, apparantly falling to the floor. I say apparantly because I just remember my friends shouting my name and then waking up to me struggling to get back up. I had hit my head on the way down (in fact I am typing this with a large bruise above my right eye) and could feel my arms moving in that instant where I awoke. 
+
+I think the movement signifies an unconcious urge to protect myself seeing as how I had fallen to the floor. After collecting myself my first response was to ask everyone waht happened. The response I got was that I had just fallen out of the chair. This worries me alot. 
+
+In fact the main reason for my submission today is to possibly shed some light on this phenomena for me. I take no perscription medication and this has happened to me twice before on mushrooms as well. To me it is just as if I am sitting back enjoying my trip untill the rushes of feeling get really intense and I just fade out, regaining consciousness within a matter of seconds. Anyways today I feel fine and I am a man of good health so I suspect no serious damage but I fear that without any knowledge of how I black out I can not enjoy psychoactives anymore. Thank you and good day.
+
+
+Exp Year: 2005ExpID: 42735
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Jul 11, 2007Views: 4,519
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

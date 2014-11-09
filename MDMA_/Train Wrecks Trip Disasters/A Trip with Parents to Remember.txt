@@ -1,0 +1,112 @@
+
+
+Erowid Experience Vaults: MDMA (Ecstasy) - A Trip with Parents to Remember - 40385
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #99ff66; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #1111aa; }
+#message-inner-md { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+#message-inner-sm { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+
+You've Helped Erowid Reach New Heights!
+More than 1,060 of you donated during our Public Support Drive
+Thanks for supporting reliable harm-reduction information about psychoactive drugs!
+
+
+
+	var mTimeExpired = 1414037197000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=260&page_url=/experiences/exp.php&Q&ID=40385&E&"); 
+	}
+
+
+
+
+
+
+A Trip with Parents to Remember
+MDMA (Ecstasy)
+by Hanner Bananer
+Citation:   Hanner Bananer. "A Trip with Parents to Remember: An Experience with MDMA (Ecstasy) (ID 40385)". Erowid.org. Jun 19, 2007. erowid.org/exp/40385
+
+
+
+ 
+
+
+
+
+DOSE:
+1 tablet
+oral
+MDMA
+
+
+
+
+
+BODY WEIGHT:
+148 lb
+
+
+
+
+
+The first time I tried ecstasy, which was about 4 or so months ago...I thought I was gonna die! I had just come home from a drug deal.  Actually a drug give. ha. yeah, I had given 4 ecstasy pills to two friends of mine.  I had bought 5 of them for 100$, and I was deathly afraid of them, so I just gave four away and kept one.  I went home and went up stairs and took a shower.  I decided to just take half. so I bit it and took half, it was bitter tasting.  I figured, after about 3 minutes later, might as well just take the whole thing.  I have a radio in my shower and I had turned it on.  In about 15 minutes, I found myself dancing non-stop for a good 45 minutes.  I was getting really hot and dizzy and decided to go downstairs.  
+
+I went downstairs and went to go get a drink.  I found that my hands were moving incredibly slow.  I was waving them in front of me, trying to act like I was fine at the same time. I was thinking, crap, what the hell's going on? I tried to lie down, but then I got these terrible hot flashes and got really dizzy and I was all disoriented.  So, I just decided to tell my mom, I was convinced these were my last moments with her anyway.  So, there were my parents, watching t.v. Their fifteen year old daughter blurts out, 'mom, dad, Im on drugs again.' My dad just got pissed. My mom got scared. They asked me what drug and I told them.  I started crying.  It was one of those body-wrenching sobs.  A sob for my life.  A sob for my soul.  
+
+I began to realize the turmoil I was in, within myself.  I began to talk about things that I would have never normally shared.  I began to question my life.  I began to wonder where I went wrong. I began to convince myself that I had ruined everything and I deserved to die.  I began this chanting-type thing, where I would repeat things over and over, 'no, no, no, no' while rocking back and forth, rather violently.  My dad was really pissed and told me to stop. I couldnt. My mom came and sat with me and called like 50 people on the phone, asking them for advice.  Then, she began to sing to me.  This totally caught me off guard.  I got so emotionally hurt, it hurt me to hear my mom singing to me, even seeing me, while I was on drugs.  
+
+It still hurts to this day to recall it.  I would look up at my dad, then my eyes would involuntarily roll to the back of my head and back.  My jaw was clenched, chewing my lower and upper front teeth.  I remember looking in the mirror and being scared out of my mind.  This whole experience was a horror, but I realized many things in my life that needed to change. I realized how messed up my life was. and I wouldnt take back this experience if I could. I would, however, leave my parents out of it.
+
+
+Exp Year: 2004ExpID: 40385
+Gender: Female 
+Age at time of experience: Not Given 
+Published: Jun 19, 2007Views: 12,782
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

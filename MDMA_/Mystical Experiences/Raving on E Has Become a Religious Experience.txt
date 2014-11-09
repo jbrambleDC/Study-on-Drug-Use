@@ -1,0 +1,307 @@
+
+
+Erowid Experience Vaults: MDMA (Ecstasy) - Raving on E Has Become a Religious Experience - 96978
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1414038076000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=96978&E&"); 
+	}
+
+
+
+
+
+
+Raving on E Has Become a Religious Experience
+MDMA (Ecstasy)
+by Respondent 53
+From Ecstasy.org Collection
+Citation:   Respondent 53. "Raving on E Has Become a Religious Experience: An Experience with MDMA (Ecstasy) (ID 96978)". Erowid.org. Jul 23, 2012. erowid.org/exp/96978
+
+
+
+ 
+
+
+
+
+DOSE:
+  
+oral
+MDMA
+
+
+
+
+
+I have taken E since November '96, and I can truly say that it has changed my life. Every time I have taken it, it becomes a practically religious experience. I have taken E at raves only.
+
+Every rave has been underground, so most people are there because they heard of it by word to mouth, so everyone is connected to each other somehow and the vibes are brilliant.
+
+Since I first took E, I have been able to tell if someone has good or bad vibes from the moment I meet them, it is wierd. E makes me feel real, as if I belong somewhere. Within the last year I have been reading a book about angels, and I now believe that they are around us all the time. After I took E, that feeling of closeness with my angels is even stronger everyday. At raves, when I am completely engulfed in E, I can feel and sometimes see my angels dancing. I can feel their white energy/light all around. At one rave a good friend was kicked-out, when I closed my eyes, I could see him standing outside, with an angel above him, pouring white energy all over him: it was incredible. E has changed my life around, I am now more friendly and sociable than before.
+
+All the people that I have met during and after taking E, have been magnificent, all friendly and nice. Even if we are not on E, we are all great with each other, friendly, respective, and loving. We all came to the conclusion that E takes the bullshit away, and brings the real you out. E takes you to a level of consciousness, where we can absorb pure energy.
+
+Thank you for the books and information in them, it makes things clearer and answers many questions.
+
+
+Exp Year: 1996ExpID: 96978
+Gender: Not Specified 
+Age at time of experience: Not Given 
+Published: Jul 23, 2012Views: 1,703
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

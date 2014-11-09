@@ -1,0 +1,109 @@
+
+
+Erowid Experience Vaults: MDMA (Ecstasy) & 5-HTP - Bad Trip - 18310
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Against the drug war but not sure what to do about it?
+Join Erowid and help us spread accurate, independent information.
+
+
+
+	var mTimeExpired = 1414037006000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=122&page_url=/experiences/exp.php&Q&ID=18310&E&"); 
+	}
+
+
+
+
+
+
+Bad Trip
+MDMA (Ecstasy) & 5-HTP
+by DJ Dizzave
+Citation:   DJ Dizzave. "Bad Trip: An Experience with MDMA (Ecstasy) & 5-HTP (ID 18310)". Erowid.org. Dec 30, 2004. erowid.org/exp/18310
+
+
+
+ 
+
+
+
+
+DOSE:
+350 mg
+oral
+Tryptophan - 5-HTP
+(pill / tablet)
+
+
+ 
+1 tablet
+oral
+MDMA
+(pill / tablet)
+
+
+
+
+
+BODY WEIGHT:
+175 lb
+
+
+
+
+
+Me and a bunch of friends decided to go to the club on a thursday night. We had planned it out, and I would would be dropping with one other friend this evening.  I'd done it twice before, but not for 4 months or so.  I took a bunch of 5-htp, because the previous time, it really increased my experience.  I didn't take as much this time, because last time, when I started coming down and took about 7 5-htp pills (about 350mg at once) I got nausea and vomitted several times. Not very pleasant, but after doing so, I felt just fine.  This time, however, I started rolling as soon as I got into the club. I got the usual first couple of minutes of nausea as I realize whats happening, but then, as we're sitting down inside, waiting for the rest of the group to arrive, I started getting really paranoid, and I start sweating profusely.  Sweat was absolutely running off of my face, and the rest of my body.  I was going ok, and a friend got me some ice, and some napkins.  This had never happened before, so I thought I got a pill of something else. I couldn't think straight, everyone looked weird (not LSD weird, but just weird) and the music was pulsing in my head, and I wanted it to stop, but I felt that if it were to stop, I would feel worse. 
+
+I ran to the bathroom, and vomitted everything I ate that night. I look back now, and I think it was serotonin syndrome. I had the best come-down I've ever had, and the day and week after weren't bad at all.  I don't know what triggered it, and as I search on the net, it says that usually mixing an SSRI with an MAOI causes it. I don't take either.  Maybe it was just the 5-htp causing me to roll too hard. Anyways, I'm rolling again this week, and hopefully it will all be good.
+
+
+Exp Year: 2001ExpID: 18310
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Dec 30, 2004Views: 19,720
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

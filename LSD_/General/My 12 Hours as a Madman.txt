@@ -1,0 +1,1091 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var stylesheet_uri = "http://www.macleans.ca/wp-content/themes/macleans.ca"
+	var tablet_menu_type = "click";
+
+
+Page Not Found - Macleans.ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1413953118"};
+/* ]]> */
+
+
+/* <![CDATA[ */
+var rdm_analytics_post = {"name":""};
+/* ]]> */
+
+
+/* <![CDATA[ */
+
+				if ( ! window.janrain ) { window.janrain = {}; } janrain.settings = {"packages":["login","capture"],"language":"en-US","appUrl":"https:\/\/login.rogersmedia.com","tokenUrl":"http:\/\/www.macleans.ca","tokenAction":"event","backgroundColor":"transparent","borderColor":"transparent","fontFamily":"'Open Sans', sans-serif","width":"299","actionText":" ","capture":{"flowName":"standard_rmi","stylesheets":["http:\/\/www.macleans.ca\/wp-content\/plugins\/ump\/css\/janrain.css?ver=1413316253"],"mobileStylesheets":[],"thinRegistration":false,"appId":"xjwuuvc75rs76j73wqfq2zsh85","captureServer":"https:\/\/rogers.janraincapture.com","redirectUri":"http:\/\/www.macleans.ca","clientId":"ztjs9yp2jfy2pxvuapnmay4dgqxzvs4v","flowVersion":"HEAD","registerFlow":"socialRegistration","setProfileCookie":true,"keepProfileCookieAfterLogout":true,"modalCloseHtml":"Close","noModalBorderInlineCss":false,"modalBorderRadius":1,"modalBorderOpacity":1,"modalBorderWidth":"0","modalBorderColor":"transparent","responseType":"token","returnExperienceUserData":["uuid","displayName"],"screenToRender":null,"federate":false,"federateServer":"","federateXdReceiver":"http:\/\/www.macleans.ca\/?ump_janrain_federate=xd_receiver","federateLogoutUri":"http:\/\/www.macleans.ca\/?ump_janrain_federate=logout&nonce=f3acf453d3","federateEnableSafari":true},"providers":["facebook","twitter","yahoo","linkedin"]};
+				var UMP_exports = {"avatar_default":"http:\/\/cdn.quilt.janrain.com\/2.2.9\/profile_default.png","cookie_avatar_key":"_ump_profile_avatar","cookie_expiration":1414039518,"cookie_name_key":"_ump_profile_name","loading_entity_text":"Loading profile...","ajax_url":"http:\/\/www.macleans.ca\/wp-admin\/admin-ajax.php","is_edit_profile":false,"is_logout":false,"edit_profile_class":"edit-profile","get_entity_info_nonce":"5641b561bd","update_entity_info_nonce":"27b438b5e1","httpsLoadUrl":"https:\/\/rpxnow.com\/load\/login.rogersmedia.com","httpLoadUrl":"http:\/\/widgets-cdn.rpxnow.com\/load\/login.rogersmedia.com","httpsShareLoadUrl":"https:\/\/rpxnow.com\/js\/lib\/login.rogersmedia.com\/share_beta.js","httpShareLoadUrl":"http:\/\/widget-cdn.rpxnow.com\/js\/lib\/login.rogersmedia.com\/share_beta.js","auth_redirect_url":null,"migratedM2OSignInScreenLabels":{"primaryHeader":"Sign In to New Club","secondaryHeader":"Sign In with your old credentials"}};
+			
+/* ]]> */
+
+
+/* <![CDATA[ */
+window._UMP_CheetahMail_exports = {"ajax_action_nonces":{"ump_cheetahmail_get_user_lists":"0e128503c7","ump_cheetahmail_set_user_lists":"d3c25fbd6a","ump_cheetahmail_change_email_address":"177975350e"}};
+/* ]]> */
+
+
+/* <![CDATA[ */
+var UMP_Commenting = {"uuid_field":"_janrain_uuid","access_token_field":"_janrain_access_token","id_form":"commentform","defaults":["comment-notes","comment-form-author","comment-form-email","comment-form-url"],"comment_notes_sign_in_id":"_ump_comment_note_sign_in","comment_notes_logout_id":"_ump_comment_note_logout","comment_notes_loading_id":"_ump_comment_note_loading","comment_notes_failed_login_id":"_ump_comment_note_failed_login","comment_notes_email_unverified_id":"_ump_comment_note_email_unverified","comment_class":"comment","comment_awaiting_moderation_class":"comment-awaiting-moderation","comment_notes_sign_in":"<a href=\"#\" class=\"capture_modal_open\">Sign in<\/a> to comment.","comment_notes_logged_in":"You're logged in as <img src=\"\" class=\"ump_profile_avatar avatar avatar-26 photo\" width=\"26\" height=\"26\"> <strong class=\"ump_profile_name\"><\/strong>. <a href=\"#\" class=\"capture_end_session\">Logout<\/a>.","comment_notes_loading":"Loading profile...","cookie_expiration":1414039518};
+/* ]]> */
+
+
+/* <![CDATA[ */
+var macleans_js_vars = {"ajax_url":"http:\/\/www.macleans.ca\/wp-admin\/admin-ajax.php","theme_path":"http:\/\/www.macleans.ca\/wp-content\/themes\/macleans.ca"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		window.adUtility = new RDMAdUtility({
+			site: 'rogers.publishing/macleans.CPGBusiness',
+			zone: '/',
+			pageTargets: {
+				asite: 'macleans.CPGBusiness',
+				asection: '/'
+			},
+			sponsorshipId: '',
+					});
+	
+
+				// Add ga.js to the page
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-751226-3']);
+				_gaq.push(['_trackPageview']);
+
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			
+var _sf_startpt=(new Date()).getTime()
+
+
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.macleans.ca/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+
+try{Typekit.load();}catch(e){}
+
+
+
+
+GS_googleAddAdSenseService("ca-pub-6839934596972776");
+GS_googleEnableAllServices();
+
+
+GA_googleAddSlot("ca-pub-6839934596972776", "MME_ROS_TextAd_Bottom");
+GA_googleAddSlot("ca-pub-6839934596972776", "MME_Slider_120x163");
+
+
+GA_googleFetchAds();
+
+
+try{Typekit.load();}catch(e){}
+(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1&appId=72932433624";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+			adUtility.insertAd("interstitial-1413953118-810", {type: adUtility._AD_REDIRECT});
+	    
+
+
+
+
+
+
+            if( !Modernizr.mq('only screen and (max-width: 767px)') ){
+                adUtility.insertAd("leaderboard_top", {type: adUtility._AD_LEADERBOARD_MASTER, companion: true});
+            }
+        
+
+
+
+
+
+			if( Modernizr.mq('only screen and (max-width: 767px)') ){
+				adUtility.insertAd("multiad_mob", {type: adUtility._AD_MULTIAD_MOB });
+			}
+	     
+
+
+
+
+
+
+
+
+Sections 
+Authors 
+Subscribe 
+
+
+
+
+ 
+
+
+
+
+Search for:
+
+ 
+Follow 
+
+
+
+                Twitter            
+
+
+
+                Facebook            
+
+
+
+                Tumblr            
+
+
+
+                Instagram            
+
+
+
+                LinkedIn            
+
+
+
+                Google+ Share            
+
+
+
+                YouTube            
+
+ 
+
+
+Sign In / Sign Up
+
+
+
+
+
+
+
+
+
+
+
+						Account					
+
+
+Sign Out
+
+
+
+
+
+
+
+(function() {
+	if ( localStorage.janrain_user_data ) {
+		var user_data = JSON.parse( localStorage.janrain_user_data );
+
+		if ( user_data && user_data.profile_image && user_data.displayName ) {
+			document.getElementById('captureSignInLink').style.display = 'none';
+			document.getElementById('captureProfileWrapper').style.display = 'block';
+			document.getElementById('captureSubWrapper').style.display = 'block';
+
+			document.querySelector('#ump-user-account-links .profile-avatar').src = user_data.profile_image;
+			document.querySelector('#ump-user-account-links .profile-name' ).appendChild( document.createTextNode( user_data.displayName ) );
+		}
+	} else {
+		document.getElementById('captureSignInLink').style.display = '';
+		document.getElementById('captureProfileWrapper').style.display = 'none';
+		document.getElementById('captureSubWrapper').style.display = 'none';
+	}
+}());
+
+
+
+
+
+
+
+
+John Geddes
+
+Scott Feschuk
+
+Anne Kingston
+
+Tamsin McMahon
+
+Nick Taylor-Vaisey
+
+Emma Teitel
+
+Patricia Treble
+
+Paul Wells
+
+Aaron Wherry
+All Authors 
+
+
+
+Barbara AmielSonya BellBrian BethuneRachel BrowneGenna BuckColby CoshKatie EngelhartScott FeschukMichael FriscolantiJonathon GatehouseJohn GeddesCharlie GillisScott GilmoreStephen GordonColin HorganLucas KawaAdnan R. KhanAnne KingstonJason KirbyAndrew LeachAdrian LeeKen MacQueenLeah McLarenTamsin McMahonKevin MilliganMike MoffattMartin PatriquinMichael PetrouLuiza Ch. SavageAmanda ShendrukChris SorensenNick Taylor-VaiseyEmma TeitelAndrew TolsonPatricia TrebleJaime WeinmanPaul WellsAaron Wherry 
+
+Barbara AmielSonya BellBrian BethuneRachel BrowneGenna BuckColby CoshKatie EngelhartScott FeschukMichael FriscolantiJonathon GatehouseJohn GeddesCharlie GillisScott GilmoreStephen GordonColin HorganLucas KawaAdnan R. KhanAnne KingstonJason KirbyAndrew LeachAdrian LeeKen MacQueenLeah McLarenTamsin McMahonKevin MilliganMike MoffattMartin PatriquinMichael PetrouLuiza Ch. SavageAmanda ShendrukChris SorensenNick Taylor-VaiseyEmma TeitelAndrew TolsonPatricia TrebleJaime WeinmanPaul WellsAaron Wherry 
+ 
+
+
+
+Authors
+News
+Politics
+Economy
+Education
+Culture
+Society
+Work
+Multimedia
+Subscribe
+ 
+
+
+                Twitter            
+
+
+
+                Facebook            
+
+
+
+                Tumblr            
+
+
+
+                Instagram            
+
+
+
+                LinkedIn            
+
+
+
+                Google+ Share            
+
+
+
+                YouTube            
+
+
+
+
+
+
+
+
+
+Subscribe
+Digital only
+How to activate
+Customer care
+Give a Gift
+Renew
+Ebooks
+Special editions
+ 
+
+
+
+
+
+John Geddes
+
+Scott Feschuk
+
+Anne Kingston
+
+Tamsin McMahon
+
+Nick Taylor-Vaisey
+
+Emma Teitel
+
+Patricia Treble
+
+Paul Wells
+
+Aaron Wherry
+
+All Authors
+Barbara AmielSonya BellBrian BethuneRachel BrowneGenna BuckColby CoshKatie EngelhartScott FeschukMichael FriscolantiJonathon GatehouseJohn GeddesCharlie GillisScott GilmoreStephen GordonColin HorganLucas KawaAdnan R. KhanAnne KingstonJason KirbyAndrew LeachAdrian LeeKen MacQueenLeah McLarenTamsin McMahonKevin MilliganMike MoffattMartin PatriquinMichael PetrouLuiza Ch. SavageAmanda ShendrukChris SorensenNick Taylor-VaiseyEmma TeitelAndrew TolsonPatricia TrebleJaime WeinmanPaul WellsAaron Wherry
+ 
+
+
+
+
+
+
+Authors
+News
+Politics
+Economy
+Education
+Culture
+Society
+Work
+Multimedia
+Subscribe
+ 
+
+
+                Twitter            
+
+
+
+                Facebook            
+
+
+
+                Tumblr            
+
+
+
+                Instagram            
+
+
+
+                LinkedIn            
+
+
+
+                Google+ Share            
+
+
+
+                YouTube            
+
+
+
+
+
+
+
+
+
+
+                    adUtility.insertAd("cmg_subscribe", { type: adUtility._AD_SUBSCRIBE_CMG });
+                
+
+Error: No subscribe page exists
+                ×
+
+
+
+
+
+
+
+		if( !Modernizr.mq('only screen and (max-width: 1007px)')  ) {
+		 	adUtility.insertAd("sliver", {type: adUtility._AD_SLIVER});
+		}
+    
+
+
+
+404 Error:
+Oops, we were unable to find that page.
+
+
+
+
+
+
+
+
+
+                Twitter            
+
+
+
+                Facebook            
+
+
+
+                Tumblr            
+
+
+
+                Instagram            
+
+
+
+                LinkedIn            
+
+
+
+                Google+ Share            
+
+
+
+                YouTube            
+
+
+
+
+Popular
+
+
+
+
+ 
+
+
+Strategists warn of ‘the coming energy recession’
+
+
+
+
+
+ 
+
+
+Why ice doesn’t help an injury
+
+
+
+
+
+ 
+
+
+London’s terrorists next door
+
+
+
+
+
+ 
+
+
+New Conservative ad: Stephen Harper still climbing those stairs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+ 
+
+
+
+                Twitter            
+
+
+
+                Facebook            
+
+
+
+                Tumblr            
+
+
+
+                Instagram            
+
+
+
+                LinkedIn            
+
+
+
+                Google+ Share            
+
+
+
+                YouTube            
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+About Us
+Advertising
+Contact Us
+Site Map
+Subscribe
+
+
+
+
+	  	if(document.documentElement.clientWidth >= 1008){
+			adUtility.insertAd("dhtml-ad-hook", { type: adUtility._AD_DHTML });
+	  	}
+	  	else {
+			adUtility.insertAd("dhtml-ad-hook", { type: adUtility._AD_DRAU });
+	  	}
+	  
+
+
+			// SiteCatalyst Code
+			var analyticsProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+			var analyticsHostServer = 'analytics.rogersmedia.com';
+			var s_account = 'rogersrmiglobal, rogersrmipublishing'; // Report Suite ID
+			document.write(unescape("%3Cscript src='" + analyticsProtocol + analyticsHostServer + "/js/rdm_s_code.min.js' type='text/javascript'%3E%3C/script%3E"));
+		
+
+		
+ 				 s.events='event1';
+ 				 s.pageName='macleans : canada : national : article.jsp?content=20070921_160239_7188&amp;page=1';
+ 				 s.hier1='canada|national|article.jsp?content=20070921_160239_7188&amp;page=1';
+ 				 s.channel='english';
+ 				 s.server='www.macleans.ca';
+ 				 s.prop1='publishing';
+ 				 s.prop2='macleans';
+ 				 s.prop3=rdm_analytics_get_responsive_breakpoint();
+ 				 s.prop4=rdm_analytics_get_platform();
+ 				 s.prop6='macleans : canada';
+ 				 s.prop7='macleans : canada : national';
+ 				 s.prop8='macleans : canada : national : article.jsp?content=20070921_160239_7188&amp;page=1';
+ 				 s.prop13='http://www.macleans.ca/canada/national/article.jsp?content=20070921_160239_7188&amp;page=1';
+ 				 s.prop18='oando';
+ 				 s.prop36=rdm_analytics_get_mobile_os();
+ 				 s.prop37=rdm_analytics_get_user_agent();
+ 				 s.prop39=rdm_analytics_get_device_type();
+ 				 s.prop41=rdm_analytics_get_hour();
+ 				 s.prop42=rdm_analytics_get_weekday();
+ 				 s.prop43=rdm_analytics_get_day_type();
+ 				 s.prop44='2.5';
+ 				 s.prop46='disabled';
+ 				 s.eVar53=rdm_analytics_get_uuid();
+
+		
+
+			// AudienceManager Code
+			document.write(unescape("%3Cscript src='" + analyticsProtocol + analyticsHostServer + "/js/rdm_dil_code.full.js?version=1.7' type='text/javascript'%3E%3C/script%3E"));
+		
+
+			var s_code=s.t();
+			if(s_code) {
+				document.write(s_code);
+			}
+		
+
+
+		var _comscore = _comscore || [];
+		_comscore.push({ c1: "2", c2: "3005682" });
+		(function() {
+			var s = document.createElement("script");
+			var el = document.getElementsByTagName("script")[0];
+			s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
+	
+
+
+
+
+
+
+		    var _sf_async_config={};
+		    /** CONFIGURATION START **/
+		    _sf_async_config.uid = 55711;
+		    _sf_async_config.domain = "www.macleans.ca";
+		    _sf_async_config.useCanonical = true;
+		    _sf_async_config.sections = "canada|national|article.jsp?content=20070921_160239_7188&page=1";
+		    		    /** CONFIGURATION END **/
+		    (function(){
+		      function loadChartbeat() {
+		        window._sf_endpt=(new Date()).getTime();
+		        var e = document.createElement('script');
+		        e.setAttribute('language', 'javascript');
+		        e.setAttribute('type', 'text/javascript');
+		        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+		        document.body.appendChild(e);
+		      }
+		      var oldonload = window.onload;
+		      window.onload = (typeof window.onload != 'function') ?
+		         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+		    })();
+		
+
+
+
+Create a new password
+
+We've sent an email with instructions to create a new password. Your existing password has not been changed.
+
+Close
+
+
+
+
+Create a new password
+
+We'll send you a link to create a new password.
+	{* #forgotPasswordForm *}
+		{* traditionalSignIn_emailAddress *}
+
+		
+			{* backButton *}
+			{* forgotPassword_sendButton *}
+		
+	{* /forgotPasswordForm *}
+
+
+	{* mergeAccounts *}
+
+
+
+My profile
+
+
+
+
+				{* profilePhotoCustom *}
+				
+
+
+
+{* public_profileBlurb *}
+
+Display Name:
+{* public_displayName *}
+
+			{* public_name *}
+			{* public_gender *}
+			{* public_birthdate *}
+			{* public_emailAddress *}
+			{* public_address *}
+			{* public_phoneNumber *}
+		
+
+
+Close
+
+
+
+
+Thank youfor signing up!
+
+We have sent a confirmation email to {* emailAddressData *}. Please check your email and click on the link to activate your account.
+
+Close
+
+
+
+
+Sign In
+
+
+Welcome back, {* welcomeName *}!
+		{* loginWidget *}
+
+		
+Or
+
+Use another account
+
+
+
+
+Sign In
+
+Welcome back, !
+
+		{* #userInformationForm *}
+			{* traditionalSignIn_emailAddress *}
+			{* traditionalSignIn_password *}
+			
+Forgot your password?
+
+
+				{* traditionalSignIn_signInButton *}
+			
+		{* /userInformationForm *}
+
+		
+Or
+
+
+Use another account
+
+
+
+
+
+Sign In / Sign Up
+
+
+With your existing account from
+		{* loginWidget *} 
+
+
+
+
+Or
+
+With an email account
+
+
+Already a Macleans.ca commenter? ?
+
+
+							Commenters who signed up before June 26th, 2014  will have to reregister on our new, social-friendly login system. The good news? The process should only take a few minutes, and you're welcome to use the same email address.						
+
+			
+			{* #userInformationForm *}
+				{* traditionalSignIn_emailAddress *}
+				{* traditionalSignIn_password *}
+				
+Forgot your password?
+
+
+					{* traditionalSignIn_signInButton *}
+					
+					{* traditionalSignIn_createButton *}
+
+									
+			{* /userInformationForm *}
+		
+
+
+
+
+Almost Done!
+
+Please confirm the information below before signing up.
+	{* #socialRegistrationForm *}
+		{* socialRegistration_firstName *}
+		{* socialRegistration_lastName *}
+		{* socialRegistration_emailAddress *}
+		{* socialRegistration_displayName *}
+							By clicking "Create Account", I confirm that I have read and understood each of the website terms of service and privacy policy and that I agree to be bound by them.
+				
+			{* backButton *}
+						
+
+	{* /socialRegistrationForm *}
+
+
+
+Sign in to complete account merge
+
+
+		{* #tradAuthenticateMergeForm *}
+			{* traditionalSignIn_emailAddress *}
+			{* mergePassword *}
+			
+				{* backButton *}
+				{* traditionalSignIn_signInButton *}
+			
+		 {* /tradAuthenticateMergeForm *}
+	
+
+
+
+Almost Done!
+
+Please confirm the information below before signing up.
+	{* #registrationForm *}
+		{* traditionalRegistration_firstName *}
+		{* traditionalRegistration_lastName *}
+		{* traditionalRegistration_emailAddress *}
+		{* traditionalRegistration_displayName *}
+		{* traditionalRegistration_password *}
+		{* traditionalRegistration_passwordConfirm *}
+		
+	
+Subscribe to Macleans.ca newsletters
+
+
+
+
+
+Need to know
+					Essential reading on the national conversation. Sign up for a daily dose of news, commentary and analysis from the always thought-provoking Maclean's newsroom.†				
+
+
+
+
+
+Storyline
+					Every Saturday, we'll send you our editor's picks of the best stories on Macleans.ca†				
+
+
+
+
+
+From our partners
+					Yes! I would like Maclean's to send me alerts, information, event notifications, special deals and promotions from our carefully screened partners that they feel may be of interest to me.†				
+
+
+
+
+								By clicking "Create Account", I confirm that I have read and understood each of the website terms of service and privacy policy and that I agree to be bound by them.
+				
+			{* backButton *}
+			{* createAccountButton *}
+		
+	{* /registrationForm *}
+
+
+
+Your Verification Email Has Been Sent
+
+
+Check your email for a link to reset your password.
+
+Sign in
+
+
+
+Create a new password
+
+We've sent an email with instructions to create a new password. Your existing password has not been changed.
+
+Close
+
+
+
+Create a new password
+
+We didn't recognize that password reset code. Enter your email address to get a new one.
+	{* #resetPasswordForm *}
+		{* traditionalSignIn_emailAddress *}
+		
+			{* forgotPassword_sendButton *}
+		
+	{* /resetPasswordForm *}
+
+
+Your password has been changed
+
+Password has been successfully updated.
+
+OK
+
+
+
+Change password
+
+	{* newPasswordForm *}
+		{* newpassword *}
+		{* newpasswordConfirm *}
+		
+			{* submitButton *}
+		
+	{* /newPasswordForm *}
+
+
+You did it!
+
+Thank you for verifiying your email address.
+
+OK
+
+
+
+Resend Email Verification
+
+Sorry we could not verify that email address. Enter your email below and we'll send you another email.
+	{* #resendVerificationForm *}
+		{* traditionalSignIn_emailAddress *}
+		
+			{* submitButton *}
+		
+	 {* /resendVerificationForm *}
+
+
+
+
+		/*global jQuery, UMP, janrain */
+		(function(){
+			'use strict';
+			UMP.deferred.loaded.done( function () {
+				if ( window.location.search === '?signin' ) {
+					// Remove '?signin' from the URL
+					if ( history.replaceState ) {
+						history.replaceState( null, document.title, location.pathname );
+					}
+					janrain.events.onCaptureSessionNotFound.addHandler( function() {
+						janrain.capture.ui.renderScreen( 'signIn' );
+					} );
+				}
+			} );
+		}());
+		
+
+ 
+SITES WE RECOMMEND
+
+
+
+
+Canadian Business
+
+
+			Your source for market news, investing, technology, economy and Canadian industry
+		
+
+
+
+
+PROFIT
+
+
+			News and strategies for Canadian entrepreneurs
+		
+
+
+
+
+MoneySense
+
+
+			Canada's personal finance website
+		
+
+
+
+
+
+
+
+
+			© 2001-2014 Rogers Media. All rights reserved.
+			Privacy Policy Ad Choices  Terms of Service
+
+
+
+
+
+
+/* <![CDATA[ */
+window._UMP_CheetahMail_Macleans_exports = {"third_party_list_id":"828736229","brand_list_ids":["2095521181","828733915"]};
+/* ]]> */
+
+
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.macleans.ca\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

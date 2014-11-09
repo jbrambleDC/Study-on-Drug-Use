@@ -1,0 +1,316 @@
+
+
+Erowid Experience Vaults: DMT - The Smallest Dose Possible - 96508
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1413952198000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=96508&E&"); 
+	}
+
+
+
+
+
+
+The Smallest Dose Possible
+DMT
+by FirstTry
+Citation:   FirstTry. "The Smallest Dose Possible: An Experience with DMT (ID 96508)". Erowid.org. Sep 17, 2014. erowid.org/exp/96508
+
+
+
+ 
+
+
+
+
+DOSE:
+1 mg
+smoked
+DMT
+(powder / crystals)
+
+
+
+
+
+BODY WEIGHT:
+160 lb
+
+
+
+
+
+I have been making my own N,N DMT. I have used a combination of a few teks, which gave me pretty good yields and a pretty clean product. 
+
+I have made about 13 mg, which isn't enough for a serious dose, but it's enough for someone to have a first try I think.  I like to think of each dosing of any drug as an experiment so I really like starting with those threshold doses and expanding till I'm comfortable. It sounds like I'm a little girl about it, but it's a safe way to experiment with things.
+
+Anyways, I scraped about 1 mg of the crystals into a capsule then put them onto my homemade mesh screen for my glass pipe. I took out a nice lighter and made sure to keep it far away from the product. I let the hot air just pass into the pipe taking deep, deep breaths and watched the product just melt away. I took three more similar hits just to make sure that the product was all gone.
+
+Seconds later I felt a very nice mood lift and the feeling of a trip starting, but it never did. The lightened mood lasted all day and really made me mellow out, as I had been having a crazy day.
+
+This wasn't even a threshold dosage by the Erowid Vaults numbers, but it still yielded nice effects. I think it might make a good substitute for other drugs. Not only for the fact that 1 mg actually has any effects at all, but mostly because I can make it myself. With the yields I have been getting I could make at least a few grams with the supplies I have, which only cost me ~40 bucks.
+
+Just thought I would finally share an experience that isn't about how MUCH was taken, but how LITTLE.
+
+
+Exp Year: 2012ExpID: 96508
+Gender: Male 
+Age at time of experience: 20 
+Published: Sep 17, 2014Views: 1,907
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

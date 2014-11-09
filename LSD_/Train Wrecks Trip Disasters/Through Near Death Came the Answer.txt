@@ -1,0 +1,112 @@
+
+
+Erowid Experience Vaults: LSD - Through Near Death Came the Answer - 44890
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #eebb00; border: 1px solid #000000; }
+   #message a:link { color: black; }
+   #message a:visited { color: black; }
+#message-inner-md { font: 700 10pt georgia,times,serif; color: #111111; }
+   #message-inner-md a:link { color: #0000cc; }
+   #message-inner-md a:visited { color: #0000cc; }
+#message-inner-sm { font: 700 9pt georgia,times,serif; color: #111111; }
+
+Erowid Center receives about 65% of its funding from members, and 35% from individual and institutional grants.
+
+
+
+	var mTimeExpired = 1414039034000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=190&page_url=/experiences/exp.php&Q&ID=44890&E&"); 
+	}
+
+
+
+
+
+
+Through Near Death Came the Answer
+LSD
+by Firestorm
+Citation:   Firestorm. "Through Near Death Came the Answer: An Experience with LSD (ID 44890)". Erowid.org. Mar 9, 2006. erowid.org/exp/44890
+
+
+
+ 
+
+
+
+
+DOSE:
+1.5 hits
+oral
+LSD
+(blotter / tab)
+
+
+
+
+
+BODY WEIGHT:
+200 lb
+
+
+
+
+
+Yesterday was my first time to try acid and I was slightly worried that with all the crap going on in my life, I'd have a terrible trip and feel horrible. However, I did it anyway and within about two hours, I was feeling great. 
+
+The three of us were sitting around listening to some Pink Floyd song when a very funny comment was made about it. Unfortunately, I had a mouthful of soda in my mouth and I inhaled it into my lungs and began to choke. This was my first time to ever choke, so I freaked out a bit when it felt like there was a golfball lodged in my airpipe. As I stood up though, time itself began to slow down. When I got on my feet, time had stopped and the room began to fade to black until I was alone with the universe. Suddenly, there was a small light in front of me and I reached out towards it. When my hand got as close to it as it could without me walking towards it, the light rapidly expanded until it flowed through me and everything else out there. As it happened, the 'answer' to the universe and life suddenly was inside of me and I felt like for that split second, everything made sense. 
+
+The next thing I knew, I was coughing up strawberry soda onto my friend's floor. Nothing like that happened for the rest of the night, but the experience has changed my outlook on life from hating it to loving it with every ounce of my being.
+
+
+Exp Year: 2005ExpID: 44890
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Mar 9, 2006Views: 5,466
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

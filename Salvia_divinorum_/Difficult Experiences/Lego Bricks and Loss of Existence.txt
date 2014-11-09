@@ -1,0 +1,316 @@
+
+
+Erowid Experience Vaults: Salvia divinorum (20x extract) - Lego Bricks and Loss of Existence - 64365
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1414039443000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=64365&E&"); 
+	}
+
+
+
+
+
+
+Lego Bricks and Loss of Existence
+Salvia divinorum (20x extract)
+by Artelis
+Citation:   Artelis. "Lego Bricks and Loss of Existence: An Experience with Salvia divinorum (20x extract) (ID 64365)". Erowid.org. Apr 6, 2010. erowid.org/exp/64365
+
+
+
+ 
+
+
+
+
+DOSE:
+200 mg
+smoked
+Salvia divinorum
+(extract)
+
+
+
+
+
+BODY WEIGHT:
+140 lb
+
+
+
+
+
+My first time with salvia was last night. I used .2 grams of 20x and a bong/torch lighter. The setting was in friend A's basement. There were two other friends there as well, friend B and C. The initial plan was to do it all at different times, mostly because we wanted to see each other and have sitters.
+
+Friend A was going to take the first hit, so he used the torch lighter to fill up the bong, but when he went to inhale all of it he started coughing hard, so I quickly covered the top so the smoke wouldn't all come out. Friend C ran upstairs to grab some water, while I thought it would be a good idea to take all that smoke for him. As I was holding it, friend A and B were counting to twenty out loud. At about eleven, I let it all out because the room started going black. I remember saying 'are you serious?' sitting back, and putting the bong on the ground.
+
+This is where I started tripping, but looking back on it, it now just feels like a strange and distant dream. Time suddenly stood still, and I was trapped inside a single frame of existence. This singing frame was then inside of a flip-book-like existence of bricks. As in, everything around me, including my body, was built entirely from bricks, or large pixels, or something like that. And the flip-book-like feeling was the fact that these bricks kept being fanned to the left, and then to the right, but in an arc motion, like if you set a book flat on a table and let the pages flip from cover to cover. I could actually feel the bricks ripping across my body, like they were sticky. I got extremely nervous and felt like I would be trapped inside of this flip-book existence forever, so I started jumping (as my friends describe, when I tried to jump into the ceiling). I knew I was reaching the edge of the book, so I started thrashing forward, but something was holding me back (my friends holding me down in a rocking chair because I was screaming 'I have to get out of here!')
+
+Then I started to come back to reality. My friends were telling me it was ok, that I just had a bad trip. I could still feel the ripping of the brick pages in my legs, and I thought that if I left the room, than the book couldn't get me. So I pushed them all out of the way and ran for the edge of the room. I began pacing in the living room portion of his basement while someone gave me a glass of water. I sat down on a futon and began thinking about what had just happened. At this point I realized that nothing existed and that everything was a lie. There was no life. My past had been a dream, and my future would never come. I was arguing with myself. This didn't make any sense to me, and I knew it seemed insane, but I couldn't possibly imagine how anything outside of now could be possible. I started sweating profusely and I thought I was about to fall back into the flip book, so I stood up and started pacing.
+
+There was water all over my body (a normal feeling, I know, but I really thought it was there). My friends kept telling me I was dry, but I didn't believe them. I just kept pacing, and friend A made the mistake of saying 'Well, you'll be like this forever. See you in heaven.' I just freaked out and told him not to say things like that. Friend B told me it was fine and I would feel better in a few minutes. The pulling was such an unbearable feeling. I was jumping around like an idiot trying to get it to go away. At one point I wanted to cry, and at another point I wanted to call my mom. I knew that my mom had to be a connection to reality and existence. Finally, the feeling started subsiding, so we decided to go upstairs to chill for awhile. I started to relax as I told them all my trip and how I had felt hopeless and that it didn't make sense for life to exist. I felt extremely existential.
+
+Friend C than drove me home so I could go to bed. She walked me to my room to make sure I would be all right. She waited around awhile to make sure I felt comfortable with the idea of going to sleep. Once she left I was still feeling fine. There were still slight feelings of pulling, but they were entirely bearable compared to earlier in the night. The problem became when I started nodding off. I was afraid that either A) I would fall back into the flip book, or B) I would get up and start doing things in the middle of the night without realizing it. I ended up putting on all of my clothes in case I wandered outside. It took nearly five times of nearly nodding off and about two hours to fall asleep. But now that it is morning, I feel much better, and I'm glad I had my trip.
+
+
+Exp Year: 2007ExpID: 64365
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Apr 6, 2010Views: 4,171
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

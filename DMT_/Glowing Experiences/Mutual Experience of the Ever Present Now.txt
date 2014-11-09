@@ -1,0 +1,136 @@
+
+
+Erowid Experience Vaults: LSD & DMT - Mutual Experience of the Ever Present Now - 61042
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #99ff66; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #1111aa; }
+#message-inner-md { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+#message-inner-sm { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+
+You've Helped Erowid Reach New Heights!
+More than 1,060 of you donated during our Public Support Drive
+Thanks for supporting reliable harm-reduction information about psychoactive drugs!
+
+
+
+	var mTimeExpired = 1413951796000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=260&page_url=/experiences/exp.php&Q&ID=61042&E&"); 
+	}
+
+
+
+
+
+
+Mutual Experience of the Ever Present Now
+LSD & DMT
+by Galactic Reset
+Citation:   Galactic Reset. "Mutual Experience of the Ever Present Now: An Experience with LSD & DMT (ID 61042)". Erowid.org. Sep 13, 2008. erowid.org/exp/61042
+
+
+
+ 
+
+
+
+
+DOSE:
+1 hit
+oral
+LSD
+(gel tab)
+
+
+ 
+20 mg
+insufflated
+DMT
+(powder / crystals)
+
+
+
+
+
+We had a small house warming party at L's new place. L and I had taken 1 hit of these clear-yellow gel tabs. Not too strong, but a nice trip with good friends. 
+
+As morning approached, L and I decided to retreat to her bedroom to snort some DMT together. 
+
+I wieghed out 20mg each (we wanted to start low)
+
+L snorted hers first. By the time I had wieghed out mine and snorted it, she was already lifting off. 
+
+One note about snorting DMT, be sure it is really clean. Ours was snow white and glistened. Looked like crushed up glass. Purity is important. Who wants to put garbage up their precious sinuses?
+
+L and I layed on the bed for a short bit. I could feel it rising up. Then, like some one flicked on a light switch, it hit.
+
+I do not have a solid recollection of all the events that transpired, but I do recall L saying I looked like an Alex Grey painting. I laughed and then she did as well. How amazing that he captures this experience so well in his art.
+
+about 15-20 min into the experience, L and I locked eyes. At first if was as if they were negotiating some sort of network connection, then they just locked completely. 
+
+At this moment, the whole scene around me dissolved into colored lines all seperated in black space with just a single set of eyes in the middle. They werent hers or mine, just eyes observing the ever-present now. 
+
+This must has lasted for about a minute before we disengaged and reclaimed our own perspectives in our own bodies.
+
+I confirmed with L that she had the same experience as I did. We were both truely astounded by this.
+
+A little bit later, L told me she was confused and lost and needed help. I gently held her, helping to ground her and allowing her to relax and let go of whatever it was that was bothering her. The energy passed and we both rested until sleep came. 
+
+We woke up feeling well rested and quite hungry. 
+
+All in all, it was a beautiful experience. 
+Though there is very little literature on the subject, DMT is definitly active when snorted. The burn is pretty bad but it subsides quickly. We both had some residual sinus sorness the next day but nothing horrible (I've snorted far far worse)
+
+I hope to experiment some more with this method, employing higher doses. I'm curious to also try 20mg again with out LSD, as I'm wondering how much of a difference it will make. Seems like LSD potentiates DMT quite a bit.
+
+
+Exp Year: 2007ExpID: 61042
+Gender: Not Specified 
+Age at time of experience: Not Given 
+Published: Sep 13, 2008Views: 6,484
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

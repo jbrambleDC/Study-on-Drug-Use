@@ -1,0 +1,138 @@
+
+
+Erowid Experience Vaults: DMT - The Hyperdimensional Museum of Art - 80512
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #eeaa00; border: 1px solid #000000; }
+#message-inner-md { font: 700 13pt arial,sans-serif; letter-spacing: .05em; color: #111111; }
+#message-inner-sm { font: 700 9pt arial,sans-serif; color: #111111; padding-top: 8px; }
+
+Donate $125 and get a fantastic hand-made glass molecule.
+(Choose from chemicals like serotonin, caffeine, mescaline, DMT, or MDMA!)
+
+
+
+	var mTimeExpired = 1413952595000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=85&page_url=/experiences/exp.php&Q&ID=80512&E&"); 
+	}
+
+
+
+
+
+
+The Hyperdimensional Museum of Art
+DMT
+by Allen Purcell
+Citation:   Allen Purcell. "The Hyperdimensional Museum of Art: An Experience with DMT (ID 80512)". Erowid.org. Jan 11, 2014. erowid.org/exp/80512
+
+
+
+ 
+
+
+
+
+DOSE:
+40 mg
+smoked
+DMT
+
+
+ 
+55 mg
+smoked
+DMT
+
+
+
+
+
+BODY WEIGHT:
+175 lb
+
+
+
+
+
+I've tried most common psychedelics extensively over the last 15 years, and would consider myself an experienced psychonaut -- but while I'd always been interested, I didn't have the opportunity until recently to try DMT.
+
+I bought a glass pipe at a head shop with a tiny bowl and a squiggle in the stem, similar the drawing in Gracie & Zarkov's article. Before smoking, I spent part of the day watching videos about DMT and reading trip reports. I was a little concerned I was programming myself and given the typicalness of my experience I think I did program myself a bit. 
+
+For my first try, I filled it with about 40 mg of DMT (measured on a reasonably accurate scale). It took me a long time to get the DMT to melt and on my first go I didn't really get a good hit. I was surprised to find it hardly tasted as bad as I'd been lead to believe; I could really barely taste it except for my mouth going a bit numb (I think MDMA crystals taste 1000 times worse). Later, when I got a better hit, the taste didn't bother me at all, it almost had a slightly perfumed/anisette finish.
+
+After my first try, I felt just a tiny bit like I was coming down off of mushrooms for maybe 2 minutes. For a moment with my eyes closed I saw Alex Grey-type human circulatory patterns and thought 'Oh no, I hope this isn't all Alex Grey style!' I opened my eyes and my room was quite normal. My arms and chest felt heavy, and my stomach a bit woozy.
+
+It was pretty frustrating, so I waited about 10 minutes and then measured out a larger dose (55mg +/- 5mg). This time I succeeded in getting it to vaporize much faster, but I didn't hold the first (biggest) lungful for very long and it was only with the second lungful that I remembered to keep it in and I finally managed to take off.
+
+I closed my eyes and was immediately pitched into deep space. 
+
+From a great distance tiny points of light started shooting towards me exactly like any space movie. More and more points of light appeared and as one grew bigger and bigger I realized it was in the shape of a sitting Buddha. Although I was moving at 1000 miles per hour, the Buddha was massive and massively slow. I passed through the Buddha which was made of circuit patterns of light. Im not normally into Buddhas, but this was a distinctly welcoming Buddha. This Buddha was then joined by a thousand more Buddhas in a solid wall of sitting Buddhas that were flashing rainbow colors into infinity. I was playing a record of J.M. Jarre's 'Oxygene' and the high pitched beeps from the record were reflected in the flashing patterns on the Buddhas. I remembered very clearly an obelisk at the Metropolitan Museum of Art that has 1000 rows of Buddhas carved into it. In one eye I was standing in front of the obelisk at the museum, in the other eye I was microscopic and passing through this obelisk at a tremendous speed.
+
+On the other side of the Buddhas, I was in a massive room carved with Egyptian hieroglyphics. I floated through this room at a slower pace. I passed in-between and through hieroglyphics that were much larger than me. I was probably as tall as one of their fingers, or a nose.  There were also Pyramids that were doll-house sized to me. They were all moving and interacting with each other, but paying me no mind. There was an overall yellow cast to the light and the objects in this room.
+
+I floated through a stone doorway and the next wing was mostly orange with silver and white accents and was decorated in a very 1970s, modular, cellular style. This room was on the same scale as my body  all of the furniture was formed out of the same material as the walls, floor ceiling  as if it had been cast as one piece. There was something labyrinthine about it, but also ultra modern (not 1970s but 3070s). In this room was a woman with dark hair and fair skin in I would guess her late 40s. She was dressed in the same material as the room. She didnt speak to me directly, but she knew I was there and there was nothing threatening about her. At about the moment I became aware of the woman I also realized that instead of flying forward, I was controlling my own movements. I started towards another door in the right corner of the 3070s room  it was also futuristic, but it was glowing silver with no orange. As I got to the room I only had a quick glance inside (silver and black mirrors) before I opened my eyes.
+
+I opened my eyes and my living room looked quite normal, with only a very slight weirdness to the lighting and enhanced colors. I tried to close my eyes again, but I found that I had slipped out of the vast museum complex and now I was back drifting through the stars, and seeing LSD-like patterns. They were pretty, but not nearly as exciting. 
+
+Through the entire experience I was aware of heaviness on my body, and the slow, labored breathing everyone talks about. At a certain point I had to cough but I suppressed it because I had a feeling a cough would tear through the tissue paper of my vision. At no point did I lose my sense of self or awareness that I was sitting on the couch in the living room. I felt like Alice when her head shoots up suddenly from her neck and her body stays tiny on the ground. 
+
+The physical effects wore off shortly after the mental effects disappeared. Less than twenty minutes later I ate dinner with no trouble, and my head felt clearer than it had before I smoked the DMT. 
+
+In retrospect I think two things really influenced my trip. I did use to take LSD at the Metropolitan Museum of Art a lot (about 10 years ago). Recently Ive been having a psychedelic renaissance, and I have been thinking about doing this again. Oddly, the thousand Buddha wall there never really engaged me at the time, but I think that as soon as I made that connection to the star-Buddhas in my vision, the rest of my experience took on a very Met-tinged/museum-y tone.
+
+The second influence was 2001 Space Odyssey, which I watched again recently and I had been thinking about how DMT-like the last 10 minutes were. I think I definitely gave myself exactly what I was expecting as far as shooting beyond the infinite goes. Not that Im complaining, it was awesome.
+
+I will definitely be looking to this more extensively in the near future. There was nothing ominous or too uncomfortable about this experience. I feel like I only just crossed the threshold, and I am ready to go further.
+
+
+Exp Year: 2009ExpID: 80512
+Gender: Female 
+Age at time of experience: Not Given 
+Published: Jan 11, 2014Views: 7,004
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

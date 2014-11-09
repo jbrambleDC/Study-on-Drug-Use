@@ -1,0 +1,124 @@
+
+
+Erowid Experience Vaults: DMT - The Final Frontier - 12306
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #99ff66; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #1111aa; }
+#message-inner-md { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+#message-inner-sm { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+
+You've Helped Erowid Reach New Heights!
+More than 1,060 of you donated during our Public Support Drive
+Thanks for supporting reliable harm-reduction information about psychoactive drugs!
+
+
+
+	var mTimeExpired = 1413951822000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=260&page_url=/experiences/exp.php&Q&ID=12306&E&"); 
+	}
+
+
+
+
+
+
+The Final Frontier
+DMT
+by Kernunnos
+Citation:   Kernunnos. "The Final Frontier: An Experience with DMT (ID 12306)". Erowid.org. May 19, 2002. erowid.org/exp/12306
+
+
+
+ 
+
+
+
+
+DOSE:
+50 mg
+smoked
+DMT
+(freebase)
+
+
+
+
+
+BODY WEIGHT:
+160 lb
+
+
+
+
+
+
+5 September 1999 3pm.
+
+I am by myself at home. It is 3 pm on a sunny afternoon.
+I mixed 50 mg DMT with some basil leaf and placed it in a large pipe and smoke it in two tokes, holding the first one about 20 seconds. I think it burned too hot, probably destroyed some of the DMT. I lay back in bed, and close my eyes, and in less than a minute I am transported to another plane of consciousness.
+
+I see extremely sharp and intricate colorful pastel yellow, red, and green geometrical moving patterns all around me. I sense all beings who have ever used, or will ever use DMT are here with me. I did not see any individual people, or hear any words. It was a kind of feeling. This kind of sensing is not available in my everyday unaltered state, so it is difficult to describe in the english language, but it was clear and powerful.
+
+The DMT space has a familiar feel to it. When I go to the DMT space, I often think, now I remember, this is where I have been before. It is a place that cannot be remembered once the DMT wears off, as the space is permeated by some senory field which is in addition to the normal senses. This sensory field is like thought except the thoughts are not coming from myself. Telepathy, time travel, genetic memory, earth consciousness, all are possible descriptions. This is a new frontier. An unknown.
+In a few minutes I come out of the altered state, and start to think about the experience I just had.
+
+I am saddened that all the accumulated knowledge, wisdom, and experiences of all of  the DMT users is being lost and ignored by our present culture, because of the insane, blind, obscene, hateful, evil attitude
+toward consciousness altering substances by the lunatic fringe of control freaks running the USA. I remember the image of the DMT smoke going away from me towards the open window.
+
+I have the wish that I could give this smoke to everyone, it is so simple and clean and short. In one minute you are no longer you, and are now goddess. How hard could it be to convince someone to take one puff from a pipe? Then there would be no judgement, just knowledge.
+
+I evaluate the experience as mostly visual, not much insight.
+It is a very positive experience, beautiful closed eye visuals, and a sense of connection to transcendent levels of consciousness, and other beings. I am back to normal in 20 minutes.
+
+
+Exp Year: 1999ExpID: 12306
+Gender: Male 
+Age at time of experience: Not Given 
+Published: May 19, 2002Views: 18,031
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,363 @@
+
+
+Erowid Experience Vaults: LSD, Mushrooms & Hash Oil - Parade Of Lights - 93952
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1414036995000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=93952&E&"); 
+	}
+
+
+
+
+
+
+Parade Of Lights
+LSD, Mushrooms & Hash Oil
+by Michael H
+Citation:   Michael H. "Parade Of Lights: An Experience with LSD, Mushrooms & Hash Oil (ID 93952)". Erowid.org. Jun 24, 2013. erowid.org/exp/93952
+
+
+
+ 
+
+
+
+
+DOSE: T+ 17:00
+100 ug
+sublingual
+LSD
+(blotter / tab)
+
+
+  T+ 22:00
+4 g
+oral
+Mushrooms
+(dried)
+
+
+  T+ 0:00
+1 hit
+smoked
+Cannabis - Hash
+(extract)
+
+
+
+
+
+BODY WEIGHT:
+160 lb
+
+
+
+
+
+This is my 3rd time doing LSD 
+The first time i did 150 micrograms, which was very powerful, this time i will be doing 100 micrograms...
+
+I have experience with a variety of psychedelics 
+such as, but not limited to; 2C-B, 2C-E, 2C-T-2, 2C-I, mushrooms, 4-AcO-DMT, 5-MeO-DiPT, Bromo-DragonFLY & DMT
+
+5:00 ingest 100 micrograms of LSD
+
+5:20 first alert
+
+5:33 positive mood lift is felt along with a creeping/rising euphoria, i can tell that this will get stronger/better :)
+
+5:45 going to a parade, this should be fun!
+
+5:45 to 8:45 - attended the parade, it was amazing! i had headphones on and was jamming dubstep during the whole parade
+which made it even better!  it was sooo beautiful! it was everything i thought that it would be and more! :) 
+i thought that the cops would know how high i was on LSD so i tried to look way, 
+when they drove by so they wouldn't see my pupils!
+
+8:50 - tripping pretty significantly, the euphoria is amazing!!! music is excellent! listening to some diplo :) 
+
+9:15 - chillin with my cat and he is purring in my lap this is sooo sweet!
+
+9:35 - loving life :):
+
+9:35 to 1:00 - My trip was dying down at this point and i got upset with my exgirlfriend so that didn't help either
+and at this point i thought that my night was pretty much over...when i get a call from a friend, i'll call him 7.
+7 tells me he's coming over, which was nice because i was pretty upset and melancholy, 7 comes and picks me up with a few other people who I will call R & C. R is driving and is on 7 grams of shrooms, so is 7, and C had consumed mushies as well [Erowid does not condone or support operating any vehicles while under the influence of any substance].  They offered to let me trip mushrooms and i felt like i was up for my first combo so i ended up taking 4 grams of mushrooms when we arrived at R's apartment... i convinced myself that the LSD was pretty much done at this point... boy was i wrong. in about an hour or two i could tell that the LSD was still lingering, because i had insane visuals. 
+
+1:00 to 6:00 - i lost track of time at this point... R's apartment had writing all over the wall and the words were shifting and moving all over the place, i was staring at the wall like it was TV... dubstep made the words move and shift and sway and expand and all sorts of wacky stuff... i loved it, it wasn't too intense at this point... but all that was about to change,
+
+my friend 7 gave me a dab (hit) of hash oil, and this is where i felt the intensity of the LSD return along with the mindfuck of the mushrooms... i had a complete ego death... along with intense visuals both closed eye and open eye. 
+
+what was i? who was i? where was i? 
+
+The way i felt was unexplainable, I felt like I was in an alternate universe where the rules of time, physics, and gravity didn't really apply... for a second I felt like I was going to freak out, and my heart rate seemed faster than usual, 
+
+My thoughts started to race and i was slightly nervous... luckily i was able to calm down pretty quickly and talk myself out of freaking out... I remember at one point thinking to my self 'good job dude you just calmed yourself down, that could've been bad.  The intensity of the hit of hash oil lingered for about 30 minutes or so, it sent me flying into a wild and disconnected headspace... i fucking loved it, next time i would take a smaller hit of hash though, it was quite intense.
+
+luckily i've been through much worse (2C-E overdose) so i was used to the feeling and knew that i would return to normal soon enough. i remember feeling like i was 'reset' or like i was a new person after the hit of hash oil. i was so happy to be alive, and was in a really great mood.
+
+6:00 to 8:00 - i layed my head next to the speaker on the floor and thought about lots of stuff, like my ex girlfriend and relationships and my life... i think its possible that the argument i got in with my exgirlfriend may have contributed to the intensity of my trip, shaking up my emotions a bit and changing the feel of the trip... it was quite an amazing experience and i don't think i would do it again any time soon, but i am very happy to have had the experience, i also feel that it may have helped with some anxiety issues i've been having lately i felt alot more calm the next morning, and all day the next day... this is a combo i reccommend for anyone that needs to have a quick reality check and 
+
+it was a humbling experience... ego death is never something to mess around with, but it can't help you very much with becoming a better person... i hope you enjoyed my trip report.
+
+
+Exp Year: 2011ExpID: 93952
+Gender: Male 
+Age at time of experience: 18 
+Published: Jun 24, 2013Views: 3,929
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,553 @@
+
+
+
+
+Codes of My Kin - Reality Sandwich
+
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1796088-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ajaxurl='http://realitysandwich.com/wp-admin/admin-ajax.php';pf_nonce='baa84785e3';
+
+
+/* <![CDATA[ */
+var jsVars = {"ajaxurl":"http:\/\/realitysandwich.com\/wp-admin\/admin-ajax.php","pluginurl":"http:\/\/realitysandwich.com\/wp-content\/plugins","user_id":"0","is_admin":""};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var SafeCommentsAjax = {"ajaxurl":"http:\/\/realitysandwich.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+
+
+
+
+
+var ajaxurl = 'http://realitysandwich.com/wp-admin/admin-ajax.php';
+/* <![CDATA[ */
+			var pwGlobals = {"view":{"url":"http:\/\/realitysandwich.com\/151960\/codes_my_kin\/","protocol":"http","type":"post","post":{"ID":151960,"post_author":"98888","post_date":"2012-06-20 04:46:46","post_date_gmt":"2012-06-20 04:46:46","post_content":"<p><em>As Above #4<\/em><br \/> <br \/> Shimmering, exquisite geometric tower, blue-white on black behind my closed lids -- impossibly intricate jungle gym stretching far and away -- dazzling in its beauty and infinite -- my heart blooming, amazed --<\/p><p>This is how it <em>is<\/em> -- burgeoning structures -- fabulous, stunning -- all around, inside and throughout -- the mind ordinarily too locked out, stuck in its one paltry mind-channel when there are endless potential mind-channels; and the whole primordial, magnificent thing goes on exploring itself through infinite consciousnesses.<\/p><p><span class=\"inline inline-left\"><img class=\"image image-_original\" alt=\"\" src=\"http:\/\/staging.realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AFTER_THE_FUTURE.jpg\" width=\"448\" height=\"654\" border=\"0\" \/><\/span><\/p><p><em>After the Future<\/em><br \/> <br \/> I was on the floor of the den, the better part of the trip past, trying to get some sleep. I would never be the same. I knew I had just separated myself from my parents, unless they, too, would have the experience -- separated now from my teachers, my brother -- everyone.<\/p><p>But oh, this was such a precious new understanding, this unfurled mind and its perception of beauty and energy so supreme, so superlative to the staid view of things we've all tragically agreed upon.<\/p><p>Now I would sense the microscopic creatures living in my body and in the carpet. Now I would see the intense vibrations always in the air and know the emotions of fruit flies, the lure of the fruit arousing insect desire and propelling those delicate, transparent, little wings. <br \/> <br \/> I wasn't going to care about television's propositions anymore. I had the colors of a million rainbows in every one of my cells -- I was alive with the self-same energy recorded in the woodgrain of our table, and every arid place would now be succulent with the aloe juices of a mind so thoroughly flooded with love for one world, one indivisible, inexhaustible fabric, this sparkling profusion, this undulant dance and display!<\/p><p><span class=\"inline inline-left\"><img class=\"image image-_original\" alt=\"\" src=\"http:\/\/staging.realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AS_ABOVE_8.jpg\" width=\"448\" height=\"597\" border=\"0\" \/><\/span><\/p><p><em>As Above #8<\/em><br \/> <br \/> My parents were not happy with each other. And my poor brother ate mountains of Corn Pops out of a mixing bowl in front of TV and got average grades on his report cards.<br \/> <br \/> I was alone in that house. Alone with my thoughts and love of art and nature -- reading Anais Nin and tending my many plants, something of an alien, a fugitive, rebellious and righteous -- lost and superior -- fearing the future of not belonging, not having a world I wanted to live in.<br \/> <br \/> Where was the joy in it? Why was everyone so depressed and superficial? Why were we not dancing in the streets at the sight of just one furry bee? And why was this substance that could save us and our world, illegal? How could one drop of a chemical on a piece of blotter paper and cut in half -- how could one half of one drop in my whole body cause my mind to know the universe in a wholly different way? And what other minds might be in there to be brought to consciousness? What other universes were there to behold?<br \/> <br \/> I was bearing up to two lives now, the one I knew before, the one that I would be expected to perform in, show up in, study, speak and write about, share my love in -- that sad little box of ignorance where they call my given name; and this other one -- this spectacular vibrating, kaleidoscopic, ordered, intense, heart-streaming, majesterial magnificence. No one would know what I was talking about; but, if I could speak only of this, it would be all I have to do.<br \/> <br \/> None but my friends could know me now, that is, only those who'd known this too. But even <em>we<\/em> didn't talk about it, not really. We sometimes tried, but when you're <em>in<\/em> the experience, you're so overwhelmed and wowed, you might try to point things out, but how much of any of this can be shared?<\/p><p><span class=\"inline inline-left\"><img class=\"image image-_original\" alt=\"\" src=\"http:\/\/staging.realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AS_ABOVE_2.jpg\" width=\"448\" height=\"597\" border=\"0\" \/><\/span><\/p><p><em>As Above #2<\/em><br \/> <br \/> Describe a tropical island to an Eskimo who'd never been off the polar cap. All these birds, you'd say -- oh, the sounds of the finches! -- and the colors! -- the profusion of living things all climbing up over each other in a thousand greens to the sunlight -- the rhythms and music of the insects all night -- the softness of the sand -- and the sea! buoyant, turquoise, warm and clear and the brilliant fish nibbling and luffing their fins at the coral reefs spiked with urchins. Swoon and gesticulate all you want, but are they equipped to take pleasure and joy in description with no subjective reference? They might, more likely, look at each other and shrug, then cut you a piece of blubber and duck into their ice house.<br \/> <br \/> I wasn't even allowed to tell my parents about it -- that would not be good. I actually tried to get them to smoke a joint, but they said no, and again, no. <br \/> <br \/> At fifteen I had already transcended their whole enterprise. Where in the world would I find space for my heart? I would have to work as an undercover agent for the truth, an agent for the majestic tower of light, drinking long from its nectar in times of inner turbulence and I would have to dwell in silence sometimes -- a defector, a turncoat, a reaper of subtext and subterfuge, listening everywhere for the codes of my kin.<br \/> <br \/> Now my allegiance was to this wondrous creation! <br \/> <br \/> And yet, how many times since then have I made efforts to take part in a sick and loveless scene, to speak of dull things as if I didn't know -- just to be with people -- and yet torn sometimes -- not wanting to betray the great experience, not wanting to shut down to fit in, but to maybe find some way to engage with situations so ruinous and pathetic, so in need of Reality, of health, to offer some kind of resuscitation.<br \/> <br \/> And there it is again, the splendorous tower of\u00a0 intricacy and sacred geometries -- Oh, origin beyond origins -- mother of the dawn -- I am still giving in to you; still I owe you so much more.<br \/> <br \/> \u00a92012 Jari Chevalier<\/p>","post_title":"Codes of My Kin","post_excerpt":"Why was this substance that could save us and our \r\nworld illegal? How could one drop of a chemical on a piece of blotter \r\npaper cause my mind to know the universe in a wholly different way? And what \r\nother minds might be in there to be brought to conscio...","post_status":"publish","comment_status":"open","ping_status":"open","post_password":"","post_name":"codes_my_kin","to_ping":"","pinged":"","post_modified":"2013-11-26 17:46:12","post_modified_gmt":"2013-11-26 17:46:12","post_content_filtered":"","post_parent":0,"guid":"","menu_order":0,"post_type":"feature","post_mime_type":"","comment_count":"33","filter":"raw"}},"user":0,"displayed_user":{"user_id":0,"display_name":null,"first_name":null},"security":{"mode":"user"},"site_info":{"name":"Reality Sandwich","description":"You are what you eat."},"post_types":{"feature":"Longform","blog":"Blog","link":"Link","announcement":"Announcement","event":"Event","block":"Ad Blocks","forum":"Forum","discussion":"Discussion"},"paths":{"ajax_url":"http:\/\/realitysandwich.com\/wp-admin\/admin-ajax.php","plugins_url":"http:\/\/realitysandwich.com\/wp-content\/plugins","plugins_dir":"\/var\/www\/vhosts\/realitysandwich.com\/httpdocs\/wp-content\/plugins","theme_dir":"\/var\/www\/vhosts\/realitysandwich.com\/httpdocs\/wp-content\/themes\/RSV2","home_url":"http:\/\/realitysandwich.com","wp_url":"http:\/\/realitysandwich.com","stylesheet_directory":"http:\/\/realitysandwich.com\/wp-content\/themes\/RSV2","template_url":"http:\/\/realitysandwich.com\/wp-content\/themes\/RSV2","postworld_url":"http:\/\/realitysandwich.com\/wp-content\/plugins\/postworld","postworld_dir":"\/var\/www\/vhosts\/realitysandwich.com\/httpdocs\/wp-content\/plugins\/postworld"},"language":null,"inject":["wp-less","icomoon"]};
+		/* ]]> */
+
+
+
+
+
+
+
+
+
+
+						Reality Sandwich
+					
+
+
+Evolving consciousness,
+bite by bite.
+V2.1
+
+
+
+
+Google+
+
+
+
+
+
+
+
+ Login
+
+ Signup
+
+
+
+
+
+
+
+
+
+
+
+
+Reset Password
+
+
+ Remember
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	function CarouselDemoCtrl($scope) {
+	  $scope.myInterval = 5000;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes!
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Topics
+
+/psyche
+/commons
+/eco
+/tech
+/body
+/arts
+Topic Map
+
+
+Sections
+
+Limitless Mind
+Psychedelic Culture
+Conscious Convergences
+Evolver EDM
+Conscious Podcasts
+Visionary Cinema
+Evolver Network
+Evolver Learning Lab
+
+
+Community
+
+Visionary Dialogs
+Community Posts
+Conscious Agents
+Posting Guidelines
+
+
+About
+
+About Reality Sandwich
+How To Post
+Contact Us
+Team
+Privacy
+Advanced Search
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tumblr
+	          
+
+
+
+ Evolver Net TV
+	          
+
+
+
+
+
+
+	var search_context = {"label":"","query":[]};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var post = {"ID":151960,"post_author":"98888","post_date":"2012-06-20 04:46:46","post_date_gmt":"2012-06-20 04:46:46","post_content":"","post_title":"Codes of My Kin","post_excerpt":"Why was this substance that could save us and our \r\nworld illegal? How could one drop of a chemical on a piece of blotter \r\npaper cause my mind to know the universe in a wholly different way? And what \r\nother minds might be in there to be brought to conscio...","post_status":"publish","post_type":"feature","comment_count":"33","post_permalink":"http:\/\/realitysandwich.com\/151960\/codes_my_kin\/","post_path":"\/151960\/codes_my_kin\/","post_categories_list":"","post_tags_list":"<a href=\"http:\/\/realitysandwich.com\/tag\/art\/\" rel=\"tag\">art<\/a><a href=\"http:\/\/realitysandwich.com\/tag\/entheogens\/\" rel=\"tag\">Entheogens<\/a><a href=\"http:\/\/realitysandwich.com\/tag\/psychedelics\/\" rel=\"tag\">Psychedelics<\/a>","edit_post_link":"#","post_format":"standard","post_type_labels":{"name":"Longform","singular_name":"Longform","add_new":"Add New Longform","add_new_item":"Add Longform","edit_item":"Edit Longform","new_item":"New Longform","view_item":"View Longform","search_items":"Search Longforms","not_found":"No Longforms found","not_found_in_trash":"No Longforms found in Trash","parent_item_colon":"","all_items":"All Longforms","menu_name":"Longforms","name_admin_bar":"Longform"},"post_class":"author","link_format":"standard","link_url":"","post_points":"10","rank_score":"0","geo_latitude":"0.00000000","geo_longitude":"0.00000000","event_start":"0","event_end":"0","related_post":"0","viewer":{"has_voted":0,"is_favorite":false,"is_view_later":false},"time_ago":"2 years ago","post_timestamp":1340167606,"avatar":{"small":{"width":"96","height":"96","url":"http:\/\/realitysandwich.com\/wp-content\/plugins\/postworld\/images\/avatars\/avatar-ajones-A.png"}},"post_meta":{"_thumbnail_id":"207182","_wp_rp_related_posts_query_result_cache_expiration":"1388162193","_wp_rp_related_posts_query_result_cache_6":"a:12:{i:0;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"175363\";s:5:\"score\";s:18:\"45.361773144975686\";}i:1;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"181669\";s:5:\"score\";s:18:\"31.845198050864305\";}i:2;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"174135\";s:5:\"score\";s:18:\"31.845198050864305\";}i:3;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"180976\";s:5:\"score\";s:17:\"29.07260932853881\";}i:4;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"179968\";s:5:\"score\";s:17:\"29.07260932853881\";}i:5;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"214601\";s:5:\"score\";s:18:\"24.159137783010486\";}i:6;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"214558\";s:5:\"score\";s:18:\"24.159137783010486\";}i:7;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"181374\";s:5:\"score\";s:18:\"24.159137783010486\";}i:8;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"180680\";s:5:\"score\";s:18:\"24.159137783010486\";}i:9;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"177154\";s:5:\"score\";s:18:\"24.159137783010486\";}i:10;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"173960\";s:5:\"score\";s:18:\"24.159137783010486\";}i:11;O:8:\"stdClass\":2:{s:7:\"post_id\";s:6:\"170866\";s:5:\"score\";s:18:\"24.159137783010486\";}}"},"author":{"ID":98888,"display_name":"Jari Chevalier","user_nicename":"jari-chevalier","posts_url":"http:\/\/realitysandwich.com\/author\/jari-chevalier\/","user_profile_url":"http:\/\/realitysandwich.com\/u\/jari-chevalier\/"},"image":{"sizes":{"full":{"url":"http:\/\/realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AS_ABOVE_4.jpg","width":448,"height":612},"thumbnail":{"width":150,"height":150,"crop":"1","url":"http:\/\/realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AS_ABOVE_4-150x150.jpg","hard_crop":true},"medium":{"width":219,"height":300,"crop":false,"url":"http:\/\/realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AS_ABOVE_4-219x300.jpg","hard_crop":true},"large":{"width":448,"height":612,"crop":false,"url":"http:\/\/realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AS_ABOVE_4.jpg","hard_crop":false},"banner":{"width":448,"height":150,"crop":true,"url":"http:\/\/realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AS_ABOVE_4-448x150.jpg","hard_crop":true},"grid":{"width":448,"height":275,"crop":true,"url":"http:\/\/realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AS_ABOVE_4-448x275.jpg","hard_crop":true},"fora-banner":{"width":87,"height":120,"crop":true,"url":"http:\/\/realitysandwich.com\/wp-content\/uploads\/2013\/11\/JARI_CHEVALIER_AS_ABOVE_4.jpg","hard_crop":false}},"stats":{"width":448,"height":612,"area":274176,"ratio":0.73202614379085},"tags":["tall"]},"gallery":{"ids":[],"posts":[]},"taxonomy":{"category":[],"post_tag":[{"term_id":275,"name":"art","slug":"art","description":"","parent":0,"count":137,"taxonomy":"post_tag","term_group":0,"url":"http:\/\/realitysandwich.com\/tag\/art\/"},{"term_id":92,"name":"Entheogens","slug":"entheogens","description":"","parent":0,"count":155,"taxonomy":"post_tag","term_group":0,"url":"http:\/\/realitysandwich.com\/tag\/entheogens\/"},{"term_id":128,"name":"Psychedelics","slug":"psychedelics","description":"","parent":0,"count":320,"taxonomy":"post_tag","term_group":0,"url":"http:\/\/realitysandwich.com\/tag\/psychedelics\/"}],"post_format":[],"topic":[{"term_id":6,"name":"\/psyche","slug":"psyche","description":"","parent":0,"count":2910,"taxonomy":"topic","term_group":0,"url":"http:\/\/realitysandwich.com\/t\/psyche\/"},{"term_id":128,"name":"Psychedelics","slug":"psychedelics","description":"","parent":6,"count":382,"taxonomy":"topic","term_group":0,"url":"http:\/\/realitysandwich.com\/t\/psychedelics\/"}],"section":[],"hilight":[],"forum_category":[]},"fields":["ID","post_title","post_excerpt","post_permalink","post_type","post_status","post_date","post_date_gmt","post_timestamp","comment_count","link_url","image(all)","image(stats)","image(tags)","post_points","rank_score","edit_post_link","taxonomy(all)","author(ID,display_name,user_nicename,posts_url,user_profile_url)","avatar(small,96)","link_format","post_format","time_ago","post_meta(all)","fields","feed_order","post_path","image(full)","post_content","post_type_labels","gallery(ids,posts)","post_categories_list","post_tags_list","viewer(has_voted,is_favorite,is_view_later)","post_class","link_format","link_url","post_author","event_start","event_end","geo_longitude","geo_latitude","related_post"]};
+
+
+
+
+
+
+          /psyche
+        
+
+          Psychedelics
+        
+
+Longform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Share
+        
+
+ Share Link
+
+Use this link for email & social media, & receive 1 Share Karma point for each person who follows the link.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Codes of My Kin
+
+
+
+
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+
+
+
+
+Jari Chevalier
+
+•
+
+2 years ago
+
+•
+
+ 33 Comments
+
+
+
+
+
+
+
+ As Above #4
+ Shimmering, exquisite geometric tower, blue-white on black behind my closed lids — impossibly intricate jungle gym stretching far and away — dazzling in its beauty and infinite — my heart blooming, amazed –
+This is how it is — burgeoning structures — fabulous, stunning — all around, inside and throughout — the mind ordinarily too locked out, stuck in its one paltry mind-channel when there are endless potential mind-channels; and the whole primordial, magnificent thing goes on exploring itself through infinite consciousnesses.
+
+
+
+
+
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	
+
+After the Future
+ I was on the floor of the den, the better part of the trip past, trying to get some sleep. I would never be the same. I knew I had just separated myself from my parents, unless they, too, would have the experience — separated now from my teachers, my brother — everyone.
+But oh, this was such a precious new understanding, this unfurled mind and its perception of beauty and energy so supreme, so superlative to the staid view of things we’ve all tragically agreed upon.
+Now I would sense the microscopic creatures living in my body and in the carpet. Now I would see the intense vibrations always in the air and know the emotions of fruit flies, the lure of the fruit arousing insect desire and propelling those delicate, transparent, little wings. 
+ I wasn’t going to care about television’s propositions anymore. I had the colors of a million rainbows in every one of my cells — I was alive with the self-same energy recorded in the woodgrain of our table, and every arid place would now be succulent with the aloe juices of a mind so thoroughly flooded with love for one world, one indivisible, inexhaustible fabric, this sparkling profusion, this undulant dance and display!
+
+As Above #8
+ My parents were not happy with each other. And my poor brother ate mountains of Corn Pops out of a mixing bowl in front of TV and got average grades on his report cards.
+ I was alone in that house. Alone with my thoughts and love of art and nature — reading Anais Nin and tending my many plants, something of an alien, a fugitive, rebellious and righteous — lost and superior — fearing the future of not belonging, not having a world I wanted to live in.
+ Where was the joy in it? Why was everyone so depressed and superficial? Why were we not dancing in the streets at the sight of just one furry bee? And why was this substance that could save us and our world, illegal? How could one drop of a chemical on a piece of blotter paper and cut in half — how could one half of one drop in my whole body cause my mind to know the universe in a wholly different way? And what other minds might be in there to be brought to consciousness? What other universes were there to behold?
+ I was bearing up to two lives now, the one I knew before, the one that I would be expected to perform in, show up in, study, speak and write about, share my love in — that sad little box of ignorance where they call my given name; and this other one — this spectacular vibrating, kaleidoscopic, ordered, intense, heart-streaming, majesterial magnificence. No one would know what I was talking about; but, if I could speak only of this, it would be all I have to do.
+ None but my friends could know me now, that is, only those who’d known this too. But even we didn’t talk about it, not really. We sometimes tried, but when you’re in the experience, you’re so overwhelmed and wowed, you might try to point things out, but how much of any of this can be shared?
+
+As Above #2
+ Describe a tropical island to an Eskimo who’d never been off the polar cap. All these birds, you’d say — oh, the sounds of the finches! — and the colors! — the profusion of living things all climbing up over each other in a thousand greens to the sunlight — the rhythms and music of the insects all night — the softness of the sand — and the sea! buoyant, turquoise, warm and clear and the brilliant fish nibbling and luffing their fins at the coral reefs spiked with urchins. Swoon and gesticulate all you want, but are they equipped to take pleasure and joy in description with no subjective reference? They might, more likely, look at each other and shrug, then cut you a piece of blubber and duck into their ice house.
+ I wasn’t even allowed to tell my parents about it — that would not be good. I actually tried to get them to smoke a joint, but they said no, and again, no. 
+ At fifteen I had already transcended their whole enterprise. Where in the world would I find space for my heart? I would have to work as an undercover agent for the truth, an agent for the majestic tower of light, drinking long from its nectar in times of inner turbulence and I would have to dwell in silence sometimes — a defector, a turncoat, a reaper of subtext and subterfuge, listening everywhere for the codes of my kin.
+ Now my allegiance was to this wondrous creation! 
+ And yet, how many times since then have I made efforts to take part in a sick and loveless scene, to speak of dull things as if I didn’t know — just to be with people — and yet torn sometimes — not wanting to betray the great experience, not wanting to shut down to fit in, but to maybe find some way to engage with situations so ruinous and pathetic, so in need of Reality, of health, to offer some kind of resuscitation.
+ And there it is again, the splendorous tower of  intricacy and sacred geometries — Oh, origin beyond origins — mother of the dawn — I am still giving in to you; still I owe you so much more.
+ ©2012 Jari Chevalier
+
+
+
+
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+
+
+
+
+
+          art
+        
+
+          Entheogens
+        
+
+          Psychedelics
+        
+
+
+
+
+
+
+        (function() {
+            var params =
+            {
+                id: "54e25d2f-4264-4e59-99b0-495c624ed596",
+                d:  "cmVhbGl0eXNhbmR3aWNoLmNvbQ==",
+                wid: "21747",
+                cb: (new Date()).getTime()
+            };
+
+            var qs="";
+            for(var key in params){qs+=key+"="+params[key]+"&"}
+            qs=qs.substring(0,qs.length-1);
+            var s = document.createElement("script");
+            s.type= 'text/javascript';
+            s.src = "http://api.content.ad/Scripts/widget.aspx?" + qs;
+            s.async = true;
+            document.getElementById("contentad21747").appendChild(s);
+        })();
+    
+
+
+
+
+
+  var load_comments = [];
+  load_comments['discussion_comments'] = {
+      query : {
+          //post_id : 0,
+          status: 'approve',
+          orderby : 'comment_points',
+          },
+      labels : {
+        title: "Comments",
+        title_icon: "icon-bubbles",
+        add_comment: "comment",
+        add_comment_icon: "icon-bubble",
+        save: "save",
+        save_icon: "icon-disk",
+        placeholder: "What do you think?",
+        sort_by: "Sort by :",
+        karma: "karma",
+        voted_up_icon: "icon-thumbs-up",
+        voted_down_icon: "icon-thumbs-down",
+        voting_busy_icon: "icon-circle-medium",
+      },
+      fields : 'all',
+      tree : true,
+      order_options : {
+          'comment_points' : 'Points',
+          'comment_date' : 'Date',
+          },
+      min_points : -1,
+      view: 'discussion', // Optional, default value is default
+  };
+  
+
+
+
+
+
+
+About the Author
+
+
+
+
+
+
+
+
+
+
+Jari Chevalier
+author
+
+@jari-chevalier // 
+      Not recently active
+
+
+ 1
+
+
+
+
+
+
+
+
+    
+Jari Chevalier is a visual artist and poet/writer who facilitates the
+creative process in others through custom workshops and seminars. The
+archive of her multidisciplinary podcast series and blog is accessible at
+http://livinghero.com. Images of her inlay mixed media collages can be
+viewed at http://jariart.com.
+
+  
+
+
+
+ 
+
+
+Recent Shares
+
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+			jQuery(document).ready(function($){
+				$('#wp-admin-bar-membershipuselevel').find('a').click(function(e){
+					e.preventDefault();
+
+					var $this = $(this);
+
+					$('#wp-admin-bar-membershipuselevel').removeClass('hover').find('> div').filter(':first-child').html('Switching...');
+
+					$.get($this.attr('href')).done(function(data){
+						window.location.href = window.location.href;
+					});
+				});
+			});
+		
+
+
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/realitysandwich.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+
+
+

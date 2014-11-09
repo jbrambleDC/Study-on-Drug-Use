@@ -1,0 +1,135 @@
+
+
+Erowid Experience Vaults: MDMA (Ecstasy) - Realization - 56678
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #99ff66; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #1111aa; }
+#message-inner-md { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+#message-inner-sm { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+
+You've Helped Erowid Reach New Heights!
+More than 1,060 of you donated during our Public Support Drive
+Thanks for supporting reliable harm-reduction information about psychoactive drugs!
+
+
+
+	var mTimeExpired = 1414037197000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=260&page_url=/experiences/exp.php&Q&ID=56678&E&"); 
+	}
+
+
+
+
+
+
+Realization
+MDMA (Ecstasy)
+by Baker
+Citation:   Baker. "Realization: An Experience with MDMA (Ecstasy) (ID 56678)". Erowid.org. Feb 5, 2007. erowid.org/exp/56678
+
+
+
+ 
+
+
+
+
+DOSE:
+1 tablet
+ 
+MDMA
+(pill / tablet)
+
+
+ 
+1 tablet
+insufflated
+MDMA
+(pill / tablet)
+
+
+ 
+1 tablet
+ 
+MDMA
+(pill / tablet)
+
+
+
+
+
+BODY WEIGHT:
+185 lb
+
+
+
+
+
+Ive taken E quite a few times.  The basis for this was solely on recreational use.  My last experience, on October 1st, 2006, is why I am submitting this message.  
+
+To be frank, my first experience with E was the most enlightening.  I wasnt sure of its purity, for I was only 16 years old.  However, I did know the dealer, and I knew that he had taken it before, so I wasnt concerned.  Having taken it with my best friend, he and I found ourselves sitting at our local city beach for countless hours talking basically about life.  Everything that happened that day I cant recall, but I do remember our conversation.  It was profound, inspirational, and uplifting.  I can still sense the connection that he and I had during our roll.
+
+That experience was the only experience that I felt had some purpose.  By purpose, I mean that he and I shared things that I wouldnt have normally shared, even to this day.  I began to use E on a regular basis, 2-3 times a week.  The first time had persuaded me to do it again, for I knew how unremarkable it was.  It didnt have to be with my friend, or any friend for that matter.  I just took it.
+
+October 1st, 2006:
+
+Im pretty well educated in terms of psychoactive drugs and their effects.  On this particular day, I was lucky enough to get my hands on some white ladies.  233 mg20:10:1 (Caffeine:MDMA:Meth).  Ive had heavier doses, but not to the extent of 3 white ladies. I hadn't taken anything else that day, so I felt pretty clear-minded.  
+
+It was mid-afternoon, and the first of three kicked in roughly around 3 p.m.  Feeling the effects, but wanted to kick it up a notch, so I snorted another, and for about two hours thereafter, I was in oblivion.  I could sense a pretty intense come-down, which I inevitably tried to avoid, so I took one more.  This took place in my dorm room while my roommate was studying.  As I reached the top of my roll, my mind undoubtedly started to race.  This never happened before.  I thought that I had a concise perspective on what was going on, but I didnt.  I decided to get some fresh air.
+
+While outside, my friend from my hometown calls.  He explains to me that one of our buddies from the neighborhood died that day.  He overdosed on methadones, which is an abundant drug where I come from.  Being that I was buzzed out of my mind, the realization of it didnt seep in.  My mind was still racing.  Going from a very euphoric sensation, to a desolate depressive state.  Then, the realization sunk in.  My friend died.  I went back inside the dormitory and sat in the lobby.  It was there where I realized that this isnt my life.  I broke down, crashed, in front of what seemed to be 50 residents. A number of people came up and asked what was wrong, but I couldnt speak.  My lips felt glued together, and my jaws restless as ever.  I sat there thinking, not so much thinking about my friend who passed, but about my own life, my own mortality.  It was this very crash that I realized drugs were no longer a part of my life.  
+
+To those who are curious about E, or any psychoactive, please understand before you take them that they are in our lives for a reason.  The first time I will never forget, nor will I forget my last.  The problem is that I cant remember any other time I took it.  Understand that experimenting with drugs for a legitimate reason is one thing, but realize that surpassing the phase of experimentation is inevitable.  Realize that your life is more than taking drugs.
+
+
+Exp Year: 2006ExpID: 56678
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Feb 5, 2007Views: 11,230
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

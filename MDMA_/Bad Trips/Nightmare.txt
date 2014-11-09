@@ -1,0 +1,109 @@
+
+
+Erowid Experience Vaults: Ecstasy - Nightmare - 19876
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12pt georgia,times,serif; color: #000000; padding-bottom: 8px; }
+#message-inner-sm { font-size: 9pt; color: #000000; }
+
+Do you know about EcstasyData.org?
+It's a project of Erowid Center that does anonymous laboratory testing of street
+ecstasy/molly (as well as other drugs) and publishes the results. [Check it Out]
+
+
+
+	var mTimeExpired = 1414039921000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=169&page_url=/experiences/exp.php&Q&ID=19876&E&"); 
+	}
+
+
+
+
+
+
+Nightmare
+Ecstasy
+by diablo
+Citation:   diablo. "Nightmare: An Experience with Ecstasy (ID 19876)". Erowid.org. Dec 23, 2002. erowid.org/exp/19876
+
+
+
+ 
+
+
+
+
+DOSE:
+1 tablet
+oral
+MDMA
+
+
+
+
+
+BODY WEIGHT:
+150 lb
+
+
+
+
+
+First off I am an expierenced MDMA user and have never had problems with it before that is till today. 
+
+I took a pill of pure MDMA at like 10:30 or so this was before my friend had arrived, I figured take it now start rollin' when they got here. Well thats when it all came crashin' down -- I looked at the clock and noticed it was 11 and they stil hadn't gotten here. SO I called and was disapointed to learn that my friend could no longer leave his house. SO great now I'm stuck here rollin' with my two little brothers. OK don't worry I tried to keep myself calm but it was no use the nightmare had begun. Paranoia surrounded me, everytime I heard a noise or a voice I thought they were comin' to get me it was God aweful. I tried to do somethin', anythin' to keep my mind from wanderin into paranoia but nothin' worked. Music made it too hard to think and watchin' tv wan't possible with my eyes jitterin' at 1000miles per second. It was 2 hours of pure hell. I was cold and hot all at the same time, I was shivering with sweat drippin' down all over me. 
+
+Eventually I started to come down and was glad for that, I didn't think I ever would. So lookin' back make sure your plans are solid cuz E by yourself sucked, I say do it with freinds.
+
+
+Exp Year: 2002ExpID: 19876
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Dec 23, 2002Views: 16,964
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

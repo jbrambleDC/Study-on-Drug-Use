@@ -1,0 +1,103 @@
+
+
+Erowid Experience Vaults: DMT - DMT is the Devil - 54729
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1413952264000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=27&page_url=/experiences/exp.php&Q&ID=54729&E&"); 
+	}
+
+
+
+
+
+
+DMT is the Devil
+DMT
+by -Jhurm-
+Citation:   -Jhurm-. "DMT is the Devil: An Experience with DMT (ID 54729)". Erowid.org. Jan 11, 2007. erowid.org/exp/54729
+
+
+
+ 
+
+
+
+
+DOSE:
+120 mg
+ 
+DMT
+
+
+
+
+
+BODY WEIGHT:
+155 lb
+
+
+
+
+
+Im still recovering from the trip....I was so scarred....I was shaking all over, and there was this crazy pattern all around me that looked like a brown-paperbag being folded and unfolded thousands of times a second, but for some reason, I was able to see exactly how it was doing each and every intricate folding pattern. The world felt like it was collapsing. I could feel myself begining to mold onto the floor. As I would walk on my hands and knees, I would feel as if I was pulling up the concrete with my hands. I felt as if there was a spaceship, and it was trying to abduct me. If I tried to look in the direction on the spaceship, All I would see is a weird pattern with 2 huge circles with tiny circles around it, In a weird triangular pattern, kindof like this: http://tinyurl.com/q4jtn.
+
+The circles were spinning at a million miles an hour. The spaceship was very loud, it was SCREAMING at me. The pattern was spinning so fast, at first it looked like one of those gyroscopes, But It wasn't in any particular pattern, It was just all around me. The patterns were moving so fast, they seemed to create a vortex, and everything was spinning. The vortex was creating a huge ammount of free enegy, and it seemed to be about as bright as the sun. I could only look in its direction for a second, or maybe even less. Everything was fucking INSANE.....I blacked out.....
+
+Everything has changed. My world is forever changed...  
+
+I regret ever getting into RC's.....
+
+
+Exp Year: 2006ExpID: 54729
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Jan 11, 2007Views: 24,731
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

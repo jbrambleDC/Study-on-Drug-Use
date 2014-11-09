@@ -1,0 +1,147 @@
+
+
+Erowid Experience Vaults: MDMA & 2C-T-2 - MDMA followed by low dose 2C-T-2 - 6023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; border: 1px solid #000000; }
+#message-inner-md { font: 700 12pt georgia,times,serif; color: #000055; }
+#message-inner-sm { font-size: 9pt; color: #000000; }
+
+Thinning Out Your Physical library?
+If you have books about drugs, contribute them to Erowid Center!
+Your old books will find a good home either in our library or with a supporter. [details]
+
+
+
+	var mTimeExpired = 1414040070000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=240&page_url=/experiences/exp.php&Q&ID=6023&E&"); 
+	}
+
+
+
+
+
+
+MDMA followed by low dose 2C-T-2
+MDMA & 2C-T-2
+by Gandolf
+Citation:   Gandolf. "MDMA followed by low dose 2C-T-2: An Experience with MDMA & 2C-T-2 (ID 6023)". Erowid.org. Apr 4, 2001. erowid.org/exp/6023
+
+
+
+ 
+
+
+
+
+DOSE: T+ 0:00
+1 tablet
+oral
+MDMA
+(pill / tablet)
+
+
+  T+ 3:00
+0.5 tablets
+oral
+MDMA
+(pill / tablet)
+
+
+  T+ 5:00
+8.0 mg
+oral
+2C-T-2
+(powder / crystals)
+
+
+
+
+
+BODY WEIGHT:
+185 lb
+
+
+
+
+
+
+Setting: Vacation hotel room with my partner. Evening after a good meal.
+
+Set: Very relaxed. We were both looking forward to an MDMA session together.
+
+6pm: we each dropped one tab of MDMA, and watched tv for about 20 minutes, waiting for the effects to come on. Not wanting to waste our precious vacation time tripping in front of the tube, we then decided to walk out to the beach and enjoy the coming on process with surf and gentle ocean breeze in the background.
+
+7pm: the MDMA hit, while sitting on a bench overlooking the ocean, talking, sharing, bonding. We don't do MDMA more than a few times a year, and had been looking forward to this trip and setting for many months, so every moment of it was enjoyed.
+
+8pm: back to the hotel room. cuddling lead to a randy mood, which was taken advantage of fully.
+
+9pm: we dropped another half an MDMA tablet, thereby extending the trip a bit
+
+11pm: I decided that I would experiment with a low dose of 2c-t-2: 8mg dissolved in water. My partner declined. The MDMA had begun to wear off, but we were still affected by it.
+
+12am: The 2c-t-2 effortlessly glided in with a mild increase in the waning euphoria and speedy feeling, and brighter colors.
+
+1am(ish): the visual cornucopia began! This was interesting, as I usually don't get significant visuals at the 8mg level. However, I had also never done this substance at the tail end of an MDMA experience, either. The visuals were mostly closed eyed, and I could definitively ignore them if I chose to. However, lying down, with eyes close, a whole world of fractal patterns opened up. Very very beautiful.
+
+I soon noticed that the swirling patterns were affected by whatever thought I had in my head, and for a while I played with altering the visual experience by holding certain thoughts. For example, the simple idea of triangles flooded my visual field with triangular prismatic rainbows... while the idea of turtles induced layers of interlocking primitive Polynesian turtle motifs morphing into complex anatomical imagery. I eventually got bored with these mind games, and just continued to let the experience unfold without interference on my part...
+
+Then, on cue, the experience took off into another direction. I was shown very interesting and complex imagery: Hindu gods and eyes of Horus patterns like peacock feathers swirling ad infinitum. My forehead felt like it was opening. When realized that I was thinking about the nature of this substance, 2c-t-2, a name suddenly popped into my head with insistence: Shiva. Flames and eyes everywhere. Wow! 
+
+Throughout this experience, I felt together enough to tell my partner what was going on. At one point I got up to fill a glass of water, and noticed how clear and coordinated I was. The moment I would lie back down, however, the trip would resume. I very much enjoyed having the choice of taking breaks from it all, and I suspect that it was because I was on a low dose, a dose that somehow had been made more visually potent by the earlier MDMA trip.
+
+4am: still tripping, though things seemed to have calmed down a bit.
+
+5am: over a 20 minute period, I returned to baseline, and was able to fall asleep without any problems.
+
+
+Exp Year: 2001ExpID: 6023
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Apr 4, 2001Views: 16,216
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

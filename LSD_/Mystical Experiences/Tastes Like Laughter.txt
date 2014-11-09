@@ -1,0 +1,110 @@
+
+
+Erowid Experience Vaults: LSD - Tastes Like Laughter - 27292
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000;  }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #000000; padding-bottom: 4px; }
+#message-inner-sm { font-size: 10pt; padding-top: 5px; padding-bottom: 2px; color: #000000; padding-bottom: 3px; line-height: 17px; }
+
+
+New Membership Gift--Ltd. Ed. Art Print
+
+"Solve et Elucido" is a fantastic signed & numbered reverberating giclee print 
+available for a $500 level donation. It is 12" x 12", on canvas, signed
+by the artist as well as Erowid founders Earth and Fire.
+
+
+
+
+	var mTimeExpired = 1414036995000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=242&page_url=/experiences/exp.php&Q&ID=27292&E&"); 
+	}
+
+
+
+
+
+
+Tastes Like Laughter
+LSD
+by god
+Citation:   god. "Tastes Like Laughter: An Experience with LSD (ID 27292)". Erowid.org. Oct 3, 2003. erowid.org/exp/27292
+
+
+
+ 
+
+
+
+
+DOSE:
+3 hits
+oral
+LSD
+(blotter / tab)
+
+
+
+
+
+BODY WEIGHT:
+100 lb
+
+
+
+
+
+When time is measured by a rapidly accelerating heartbeat, seconds start racing so fast they become a blur and it's so easy to reach out your eyes and touch it and it sounds so brass like somebody smashed their face against a cymbal, then suddenly you're a song. It's a pink song with faded green edges. You can press your hands against your belly until your stomach sucks them in and you can feel that pink song, soft and slimy like a fetus inside of you. You pull it out with a gasp that echoes in your nostrils and it pulses in your palm like the heartbeat in your thumb. There's nothing to do except swallow this song and listen to the way the pink feels, cottony and vibrating down your throat, through your spinal chord, chilling your back to your toes and resting somewhere in the vicinity of your liver, where it throbs to the tempo of time and your heart.  Every trip is one moment, perpetual and unified by three smiling faces, wavering in the rainbow-tracer air.  (Every moment is a trip.)  All the shadows become livid and pounce into patches of watery space that taste like laughter, echoing ceaslessly for five timeless hours.
+
+
+Exp Year: 2003ExpID: 27292
+Gender: Female 
+Age at time of experience: Not Given 
+Published: Oct 3, 2003Views: 30,646
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,398 @@
+
+
+Erowid Experience Vaults: Salvia divinorum (10x extract) & Cannabis - The Machine - 53552
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1414041595000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=53552&E&"); 
+	}
+
+
+
+
+
+
+The Machine
+Salvia divinorum (10x extract) & Cannabis
+by Stardust
+Citation:   Stardust. "The Machine: An Experience with Salvia divinorum (10x extract) & Cannabis (ID 53552)". Erowid.org. Jan 15, 2008. erowid.org/exp/53552
+
+
+
+ 
+
+
+
+
+DOSE:
+3 hits
+smoked
+Cannabis
+(plant material)
+
+
+ 
+1 hit
+smoked
+Salvia divinorum
+(extract - 10x)
+
+
+
+
+
+The Argument: 
+
+Imagine the universe -- or the multiverse -- as a giant self-transcendant machine, a cube that encompasses all of creation: every world, every reality, every dimension. It holds within it every concept, every idea, every being ever created, every dream, every thought...
+
+...and it has its own voice, its own purpose.
+
+It has its own consciousness, so alien, so different from anything our tiny and insignificant intellects can comprehend.
+
+Imagine the world we live in, this one unique reality, is only one room in this machine, one room among many that are constantly in motion. Some are similar to the one we know, and yet others are vastly dissimilar, so completely unlike anything we have ever seen from the comfort of our own. And as each room moves throughout the cube, its laws -- the basic nature of what we consider to be reality, up and down, left and right, time and space and depth -- are also changing, so what we think of as the direction of 'up' or the concept of 'time' in this reality, this room, is something completely different in the next one over.
+
+Now imagine each room is in fact a single moment that lasts an eternity, one infinite moment out of an endless, boundless amount of others. Our consciouness lives out that moment from birth to death, we remain in that room until the time comes for us to depart, and we accept it as reality because we are unaware of anything else but it.
+
+And imagine yet further a substance capable of deconstructing our consciousness to tear down the walls between these dimensions, these rooms, and reassembling it somewhere else, another room, another dimension, another moment, transporting us there without pause or hesitation. And when we awaken next door, we accept this new dimension as reality because we are unaware of anything else but it.
+
+Would you use this substance? Would you ingest it and leave your room behind to cross over into the next? And if you did, who -- or what -- would you wake up as?
+
+You dare not. 
+
+I did.
+
+The Experience: 
+
+Darkness, complete and absolute save for the digital readout on the microwave's clock and the small dot of light filtering in from the peephole on the door. Darkness is necessary, essential to eliminate distractions. Music thrumming in my ears, steady pulse, constant rhythm, an electronic heartbeat to count the time. So high already, so utterly comfortable in this armchair, covered with a blanket and a pillow at my back.
+
+There's a glass of water next to the purple pipe and matching lighter on the table at my side, ready just in case I need something to drink at the end of all this. Am I nervous? A little bit, but the meditation helped.
+
+Grab the tube to blow the smoke into and place it in my lap, don't want the place to smell. A spark, an orange glow touching the crushed leaves packed deep into the bowl, and it begins. Inhale, draw it in deep, hold...
+
+...exhale into the-- 
+
+This is why I came, this is my reason for being here. There is nothing outside of this, this moment is all there is. This, then, is the totality of existence, compressed into this one singular beat in time. There is nothing else, nowhere else to go, nowhere to be. Nothing is everything, everything is this. This is void, and void is all. 
+
+How? 
+
+--tube. did I--
+
+I smoked something that brought me here. But what is 'I'? There is no 'I', there is only this one moment. This is all there is. 
+
+--drop it? no, it's right--
+
+Here is the place I sought to find, where I wanted to go. This is why I am here. 
+
+There is nothing else. 
+
+Yes there is. I smoked something. What was it? Salvia! It was salvia brought me here. I have to get out, have to get back. What if I can't? There has to be a way. This can't be all there is to life. Where did I come from? 
+
+--here.
+
+I have to get out, need to get back. This is all... no. There is more: there is my family back home. Remember love? Light flooding in, a tunnel flanked by columns of illumination reaching out. What is that? 
+
+What is it? It's the peephole where... where I checked... if there was anyone outside before... what?
+
+There is no before, no time. This is why I'm here. 
+
+Salvia brought me here. 
+
+Peel back the layers, pull myself out and into... 
+
+...this. 
+
+No! Keep going, peel it back again, pull myself out and into... 
+
+...this. 
+
+No! Once more. Peel and pull myself out and into-- 
+
+--the room where I'm staying. I smoked some salvia. And outloud, 'Holy shit. Holy shit!. Oh my god. That was... oh my god!' I knocked the pipe over, there's some ash on the table. Need to turn on the light.
+
+The lamp casts its illumination on the room, anchoring me back to this dimension, the familiar reality that is my own.
+
+Or did I wake up as someone else?
+
+The Extrapolation: 
+
+I don't know how long I held the smoke in, but it must have only been about ten to fifteen seconds. And the moment -- the very second! -- I exhaled into the tube, my consciousness was instantly taken down and reassembled in a completely different reality. And this reality, this wholly alien dimension, this unfamiliar room in the machine, was a moment that comprised the absolute totality of existence. For me, this was all there was, all there had been, and all there ever would be. I knew nothing outside of that moment, was not even aware of myself.
+
+I had become one with that new dimension, and anything beyond it simply did not exist. I did not exist.
+
+I had absolutely no recollection, no knowledge of having taken the one hit of salvia divinorum 10X extract, and perhaps that is the most frightening aspect of the entire experience: the complete and utter destruction of the self, the total lack of identity that comes with being instantaneously whisked away from what we know and deposited into what we do not understand.
+
+Perhaps it was the knowledge that, back in 'reality', I'd somehow let go of the tube I exhaled into and let it fall to the floor before moving to pick it up again and place it on the table, or perhaps it was the sound of the pipe falling over onto its side that did it, but some amount of recollection eventually edged its way forward. It was a tickling at the back of my mind telling me there was, in fact, another world that lay beyond: my world, my life.
+
+Getting there, though, was torturous.
+
+Unknowingly, I'd removed the earbuds and paused my iPod (I have no memory of having done this), and the sudden silence almost was enough to force me back into the trip, but I struggled upwards and out. It literally felt like I was peeling back layers in reality, felt like I was pulling myself onto a ledge that was a level closer -- a room closer -- to the one I'd left behind, and onward and upward to the next, and the next, until I finally resurfaced. And all the while, I could hear the machine insisting the moment I was trying to escape was all there could possibly be.
+
+I bolted from the chair I was sitting in to turn on the lamp across the room, and with the light came the knowledge that I was indeed back in control, back in the world I'd left behind. But when I put everything away for the night, before settling into a deep, comfortable sleep, I could still feel the edges of reality trying to come apart, could almost see the walls between dimensions trying to crumble.
+
+It all felt so real -- no, to me, it was real. Reality was reduced to a single solitary moment, one room, one dimension in the machine, and all in all, though, judging from the time that had lapsed on the iPod, the trip lasted only a total of approximately 23 minutes. But to me, it was an eternity. And I'd gladly do it again.
+
+Salvia divinorum, the diviner's sage. Aptly named, for it will take me apart and threw me clear across the machine. And when I wake in whatever dimension I may find myself, who -- or what -- will I become? It is unlike any other substance I could possibly imagine. It is a key to unlocking the doors of the machine, a gateway into the infinite rooms, the boundless dimensions, that make up its whole.
+
+I did, and I will.
+
+
+Exp Year: 2006ExpID: 53552
+Gender: Not Specified 
+Age at time of experience: Not Given 
+Published: Jan 15, 2008Views: 9,520
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+
+
+Erowid Experience Vaults: 2C-E & DMT - Warped, Twisted and Mean - 62519
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; border: 1px solid #000000; }
+#message-inner-md { font: 700 12pt georgia,times,serif; color: #000055; }
+#message-inner-sm { font-size: 9pt; color: #000000; }
+
+Thinning Out Your Physical library?
+If you have books about drugs, contribute them to Erowid Center!
+Your old books will find a good home either in our library or with a supporter. [details]
+
+
+
+	var mTimeExpired = 1413952272000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=240&page_url=/experiences/exp.php&Q&ID=62519&E&"); 
+	}
+
+
+
+
+
+
+Warped, Twisted and Mean
+2C-E & DMT
+by Krazycrow
+Citation:   Krazycrow. "Warped, Twisted and Mean: An Experience with 2C-E & DMT (ID 62519)". Erowid.org. Oct 1, 2007. erowid.org/exp/62519
+
+
+
+ 
+
+
+
+
+DOSE:
+  
+ 
+2C-E
+ 
+
+
+ 
+33 mg
+smoked
+DMT
+(powder / crystals)
+
+
+
+
+
+BODY WEIGHT:
+150 lb
+
+
+
+
+
+One day I was coming off the peak of a 2C-E trip and I wanted to see how some n,n,DMT would go with it. I have done each substance by its self a good number of times and enjoy them both very much by themselves. My 2C-E trip was going very well nice feeling visuals ect. I put 33mgs of n,nDMT (This is the amount it takes me to have a good break though when I lie down and relax) on some tin foil and inhaled it in 2 good sized tokes and laid down. 
+
+The next thing I remember being in a strange trance similar to a Salvia trance, it didnt feel good so I pulled myself out of it and remembed I had smoked DMT. The visuals were very strange I saw DMT visuals but they seem to conflict with the 2C-E. Thnigs became warped, twisted and mean. Through out the whole DMT experience I had a negative uncomfortable feeling. As the DMT wears off I started to lose the uncomfortable feeling. Usually I love everything about a DMT experience but not mixed with 2C-E. I dont think these chemicals mix well, not for me anyway.
+
+
+Exp Year: 2007ExpID: 62519
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Oct 1, 2007Views: 6,549
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

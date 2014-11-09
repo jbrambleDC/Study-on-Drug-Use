@@ -1,0 +1,116 @@
+
+
+Erowid Experience Vaults: Ecstasy (PMA?) - Rolled to the ER.... - 7317
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #3333cc; border: 1px solid #000000; }
+#message-inner-md { font: 700 13pt georgia,times,serif; color: #ffcc44;}
+  #message-inner-md a:visited { font: 700 12.5pt georgia,times,serif; color: #ffcc44;}
+  #message-inner-md a:link { font: 700 12.5pt georgia,times,serif; color: #ffcc44;}
+#message-inner-sm { font: 700 8.5pt arial,sans-serif; color: #ffcc44; }
+  #message-inner-sm a:visited { color: #ffcc44;}
+  #message-inner-sm a:link { color: #ffcc44;}
+
+Take 3 minutes to write a review of Erowid
+Your feedback helps us gain visibility and do our job better. [ Submit a Review at Great Nonprofits! ]
+
+
+
+	var mTimeExpired = 1414040190000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=216&page_url=/experiences/exp.php&Q&ID=7317&E&"); 
+	}
+
+
+
+
+
+
+Rolled to the ER....
+Ecstasy (PMA?)
+by Rez
+Citation:   Rez. "Rolled to the ER....: An Experience with Ecstasy (PMA?) (ID 7317)". Erowid.org. Jun 8, 2001. erowid.org/exp/7317
+
+
+
+ 
+
+
+
+
+DOSE:
+1 tablet
+oral
+Unknown
+(pill / tablet)
+
+
+
+
+
+BODY WEIGHT:
+150 lb
+
+
+
+
+
+
+-6:30pm, I swallowed what I thought was MDMA.  It was a double-stacked blue pill with a label of 'RN.'  To kill some time, I went downstairs and played Tekken Tag.  I was by myself, which probably wasnt the best idea.  
+
+-7:30pm, my head began to throb, in sync with my heartbeat.  The pain was 10 times worse than any migraine I have ever been through.  I got really hot, and couldn't see straight.  There were no feelings of a normal roll (I've done X about 5 times before, and each time was fine).
+
+-8:00pm, the wall began to move, just as if I was tripping.  I saw mild visuals, then began to vomit violently.  My head began hurting even worse, and could not stop dry heaving.  I felt insane, and I was talking to myself, contemplating whether or not to call 911.  My roomate finally got home, and I told him to take me to the hospital or else I would die...
+
+***Went to the ER, my blood pressure was way above normal, and my body temp. was 101.  They injected me with 50mg of phenergan and demerol (sic?), and slept till 1:00AM...Filed under a 'severe migraine.'***  BE CAREFUL OF WHAT U EAT!!!!!!!!!!!!!
+
+
+Exp Year: 2001ExpID: 7317
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Jun 8, 2001Views: 38,962
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,137 @@
+
+
+Erowid Experience Vaults: MDMA  - Six Months of Depression - 21690
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; border: 1px solid #000000; }
+#message-inner-md { font: 700 12pt georgia,times,serif; color: #000055; }
+#message-inner-sm { font-size: 9pt; color: #000000; }
+
+Donate Your Used Drug Books to Erowid
+If you have old books about psychoactive drugs, contribute them to Erowid!
+Your used books will find a good home either in our library or with a supporter. [details]
+
+
+
+	var mTimeExpired = 1414040205000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=241&page_url=/experiences/exp.php&Q&ID=21690&E&"); 
+	}
+
+
+
+
+
+
+Six Months of Depression
+MDMA 
+by Katie
+Citation:   Katie. "Six Months of Depression: An Experience with MDMA  (ID 21690)". Erowid.org. Feb 28, 2003. erowid.org/exp/21690
+
+
+
+ 
+
+
+
+
+DOSE: T+ 0:00
+1 tablet
+oral
+MDMA
+(pill / tablet)
+
+
+  T+ 4:00
+1 tablet
+oral
+Pharms - Paroxetine
+(pill / tablet)
+
+
+
+
+
+BODY WEIGHT:
+130 lb
+
+
+
+
+
+Took one pill one evening around 7.
+
+I felt fine, was with a good friend, had been looking forward to the experience.  I was at home and felt comfortable. It took about 45 minutes to come on and then seemed very mild.  Had a pleasant evening, some insights, some very good feelings.
+
+We took some Paxil about 4 hours after the ecstasy.
+
+We tried and tried starting around 12 or 1 but could not get to sleep that night.  My friend and i were up all night long staring at the ceiling experiencing mild visual hallucinations - flashes of light - and wishing we could sleep.
+
+About 3-4 am I started feeling depressed and obsessing about my perceived personality flaws.  This got progressively worse until I had to tell my friend why I was crying around 8 or 9 that morning.  My friend has had no negative side effects.
+
+I don't now remember much of that next week but I was profoundly depressed.  I called a friend telling him i wanted to kill myself.  I could not get out of bed for three days ... I had to call in sick to work half the week.  I wished I were dead and the only thing keeping me alive was the idea that this was ecstasy-related and it might get better.  I was so afraid that I would kill myself that on tuesday I called my doctor and she told me to hang in there, it was definitely from the ecstasy and it might last a few weeks and if it got worse to go to the ER.
+
+I found a psychiatrist on the internet and called her and told her what happened, she made an appointment for a few days later and told me she'd seen the same thing with other people.
+
+I thought a few weeks was such a long time but I wasn't significantly better for three months -- only then did I start feeling like myself.
+
+The Wednesday after I took the e, I bought and then took 5-HTP for over a month (and some b-vitamin related thing that is supposed to be good with it) and ate a lot of things like turkey but they were of no help.
+
+I could go to work and function after the first week but I would go out to my car and cry several times a day, for almost three months. I was so sure I was a horrible person and everyone was looking at me and thinking how awful and ugly I was.  I told another friend everything and she tried to reassure me and it was somewhat helpful, but I was so convinced how horrible I was it was confusing to me -- this person i trusted said I wasn't, but I was so sure I was!
+
+I went to therapy for six weeks after this and it helped a little. I did not get on antidepresssants, I don't know why, I think my mind wasn't working properly for a long time.
+
+After three months things improved but I am still mildly depressed, sad, hopeless, and full of doubts.  I still have symptoms of OCD and obsessive thinking, which I NEVER had before. I have finally gotten some antidepressants and will start taking them -- I hope they help.
+
+Things have definitely improved but I am not the same happy, confident person I was before I took the ecstasy. I have a lot of depression and anxiety.  I will never do it again or any other drug I haven't tried before.
+
+
+Exp Year: 2002ExpID: 21690
+Gender: Female 
+Age at time of experience: Not Given 
+Published: Feb 28, 2003Views: 7,655
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

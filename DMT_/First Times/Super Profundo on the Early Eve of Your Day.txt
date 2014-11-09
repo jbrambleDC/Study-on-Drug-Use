@@ -1,0 +1,331 @@
+
+
+Erowid Experience Vaults: DMT - Super Profundo on the Early Eve of Your Day - 72595
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1413952246000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=72595&E&"); 
+	}
+
+
+
+
+
+
+Super Profundo on the Early Eve of Your Day
+DMT
+by Victoria
+Citation:   Victoria. "Super Profundo on the Early Eve of Your Day: An Experience with DMT (ID 72595)". Erowid.org. Aug 10, 2009. erowid.org/exp/72595
+
+
+
+ 
+
+
+
+
+DOSE:
+1 hit
+smoked
+DMT
+(powder / crystals)
+
+
+
+
+
+BODY WEIGHT:
+120 lb
+
+
+
+
+
+Dreaming has always been very important to me. My dreams, for as long as I can literally remember, have been intricate, beautiful. I almost always remember my dreams, and have journals dating back to the third grade recording them in intense detail, many which I can remember like it was yesterday and with more detail than most memories from the same time period. Through sheer luck or maybe force of will, I learned to control my dreams, also known as Lucid Dreaming. I couldnt tell you how I do it, but I do.   
+
+DMT isnt anything I wanted to try up until a few weeks ago. Ive experienced pretty much every popular drug, and almost pride myself on having tasted a complete spice rack of life, the full range of upper downers screamers laughers, from one end of the spectrum to the other without prejudice. Ive even been lucky enough to try some substances less popular and hard to come by, mostly on faceless blotters and through legal loopholes. Ive also been a mycology enthusiast for ten years, growing my own mushrooms for fun and profit. I couldnt tell you how many times Ive tripped, but it has certainly been a lot, and has hardened me to the experience. 
+
+Its not easy working in an air condition-less kitchen in summer, and all I wanted to do was come home and relax. When I was finally home I collapsed into the chair in my room and started watching a movie with my boyfriend, Scott. Scott mentioned he got the bag of DMT hed been waiting for. I mentioned I wanted to try it. The truth be told I didnt want to try it very badly. In the past year Id become very fond of Ketamine and was disappointed that my source had completely run dry. I longed for the sparkly world of Special K, and hoped to find it in DMT. Part of me was hesitant because I knew almost nothing about the chemical besides a quick look around on the internet. I decided something so short acting wouldnt be a problem, because if it turns out to be a horrible, dramatic life changing fear driven trip, it wont last more than ten minutes. 
+
+We were already smoking a bowl together, so he put a little on top of the weed and took a hit. I took a hit. I didnt feel anything at all. Neither did he. He put a little more on top and handed it to me. Id have to guess around thirty milligrams, but there is no way of really knowing. I looked at the yellow powder, almost knowing what was going to happen. The moment I took the hit, and the smell of that foul, odd smelling smoke hit my nostril, the world began to change. 
+
+It was like being in the middle of a mushroom trip, like falling through a trapdoor into the middle of a dream. It instantly felt wrong, as if I had entered my dreams through some secret backdoor, and part of my psyche felt betrayed by this rude and unannounced intrusion. I had the definite feeling of having been there before many times. A voice inside my head told me not to be seduced by the awesome visuals happening around me, to stay focused. Just like it does as I take control of a dream.   
+Ive been here before. I blurted out. That evolved into Im lucky that Ive been here so many times, otherwise it would be far too much to handle. I desperately tried to find words but was highly distracted. I laughed a little as I scolded Scott for letting me do this to myself, or maybe even for him doing this to me, as if I was trying to pass the buck and save face with my dream world on why exactly I showed up. I was unafraid and even bemused by the drugs attempts to give me visuals I had experience with so many other trips and dreams. It felt as if I could close my eyes and fade into unconscious sleep. 
+
+The kaleidoscope colors of the television flooded the room, along with several little fairies buzzing around me like mosquitoes. Everything breathed and pulsed, like waves brushing against the shore. Everything had a tracer, even things that should have been standing still. Fairies scampered across the floor like cockroaches. I couldnt believe how skinny my arms looked. I immediately started using all techniques I use to control my dreams, but when I looked at the clock and could read it, fear struck me, because it meant I was, in fact, conscious. The inner voice told me to remain calm, and that this will be over in just a few minutes, and again, you do not belong here. You werent supposed to come until later. 
+
+Scott started rubbing my arms with a concerned look on his face, asking if he can do anything to make me more comfortable. I sat in the chair and shook my head in disappointment and said I didnt want to be here. I think I repeated this a few times, but was having trouble finding the words to tell him what was happening. I didnt want to be there, because the voice inside me told me I wasnt supposed to be there, and I felt an almost violent push out of this deepest part of the experience, like I was being shoved out of heaven for disorderly conduct.   
+
+I came down a notch. Suddenly my butt felt very warm and I told my boyfriend I was worried I was going to shit myself. I think Im going to defecate myself. I had to repeat a few times before he understood. He walked me to the bathroom, where I sat on the toilet alone, talking out loud to myself about how lucky I am Ive visited this place so much, watching the tiles in front of me glow and breathe. I remember crying a little as the idea of never being aloud to dream ever again monopolized my thoughts, and felt the sooner I left this realm, the better. 
+
+My insides had turned to liquid and for the first time in years I had diarrhea. In about two minutes I noticed I had come down significantly. I walked back to my room and waited for the world to turn completely back to normal. I was relieved to find my comforter wasnt moving anymore and the fairies were gone. By that time my boyfriend had already taken a hit the same size as mine and was already coming down as well a little behind me. 
+
+This entire sequence of events took a little over ten minutes.   
+
+After about half an hour we went for a walk and we both agreed the drug was still looming with us, giving everything a slightly colorful twist. I still agonized that where I ended up was wrong and had disturbed something I wasnt aloud into.
+
+I havent been able to lucid dream since, and still hold a fear that I damaged my ability too. Ill admit the first dream afterwards was of a familiar dream character yelling at me for my trespass, which almost confirmed my fears were true. My dream world was pissed I took a backdoor instead of arriving announced and escorted through the front like always. And the ones in the nights following were as beautiful and deep as ever, but I had little to no control over them, and even less memory. I want to do it again but am afraid of undoing what I have worked so hard to achieve.  
+
+It does give me a weird sense of pride, to know that the drug didnt get on top of me, and I was able to remain lucid and in control. To also now know that this chemical is heavily linked to death, and that in conquering my dreams I have conquered fear of that unknown place.
+
+
+Exp Year: 2008ExpID: 72595
+Gender: Female 
+Age at time of experience: Not Given 
+Published: Aug 10, 2009Views: 6,176
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+
+
+Erowid Experience Vaults: LSD & Quetiapine (Seroquel) - Beware Before Stopping a Trip - 65108
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #99ff66; border: 1px solid #000000; }
+#message-inner-lg { font: 700 12.5pt georgia,times,serif; color: #1111aa; }
+#message-inner-md { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+#message-inner-sm { font: 700 9.5pt arial,sans-serif; color: #1111aa; }
+
+You've Helped Erowid Reach New Heights!
+More than 1,060 of you donated during our Public Support Drive
+Thanks for supporting reliable harm-reduction information about psychoactive drugs!
+
+
+
+	var mTimeExpired = 1414039375000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=260&page_url=/experiences/exp.php&Q&ID=65108&E&"); 
+	}
+
+
+
+
+
+
+Beware Before Stopping a Trip
+LSD & Quetiapine (Seroquel)
+by mind mapper
+Citation:   mind mapper. "Beware Before Stopping a Trip: An Experience with LSD & Quetiapine (Seroquel) (ID 65108)". Erowid.org. Jun 26, 2009. erowid.org/exp/65108
+
+
+
+ 
+
+
+
+
+DOSE: T+ 0:00
+4 hits
+sublingual
+LSD
+
+
+  T+ 4:30
+100 mg
+oral
+Pharms - Quetiapine
+
+
+
+
+
+BODY WEIGHT:
+138 lb
+
+
+
+
+
+I have a good deal of experience with LSD and other mind-altering substances and have never once tried to intentionally stop a psychoactive with another medication.  This was my first time doing it, and the results were quite surprising.
+
+T=0 I ingest 4 hits of quite strong LSD sublingually allowing them to move around for approximately 5 minutes before swallowing them.
+
+T=2.00  I am having an excellent time, walking around in a park and eating ice cream, quite typical results from LSD, euphoria shifting distortions, time and perception change.
+
+T=4.30  I realize I need to return home and wanting to discontinue my trip, I ingest 4 25mg pills of Seroquel which I had been prescribed about 7 months back.
+
+T=4.45  My happiness is starting to get sucked away and is being replaced with feelings of fear and depression, the hallucinations/distortions  are even more pronounced and have taken on a less 'intelligent magnitude'.  I am seeing large color shifts in reality of my surroundings and a physical body load is getting very pronounced, riding my bike is no longer safe and I start to walk it back to my house.
+
+T=5.00  I feel like shit and am experiencing temporary black outs,  movement is difficult and everything seems to have taken on a 'stupid' feel. Rather than having closed eyed visuals of fractal patterning mixed with mathematically irrational expressions, and exploded views of my mind with angelic tendencies, I now only see a single color.  Open eyed vision is heavily disrupted, yet my pupils have constricted back to what they would appear as when I'm sober.
+
+T=7.00  Thank god the Seroquel's effects seem to be stopping, I still feel dumbed out, creative thinking is incredibly hard.
+
+MORAL:  Seroquel did absolutely nothing to revert me back to baseline, although my pupils were no longer dilated.  I put a substance into my body I am in it for the long haul. I really hope they don't use this medication for people who are brought to the hospital suffering from intensely powerful trips.
+
+
+Exp Year: 2007ExpID: 65108
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Jun 26, 2009Views: 20,358
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,334 @@
+
+
+Erowid Experience Vaults: LSD, Salvia divinorum (35x extract) & Cannabis - The Human Ripping Mechanism - 66116
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1414037481000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=66116&E&"); 
+	}
+
+
+
+
+
+
+The Human Ripping Mechanism
+LSD, Salvia divinorum (35x extract) & Cannabis
+by Xodenx
+Citation:   Xodenx. "The Human Ripping Mechanism: An Experience with LSD, Salvia divinorum (35x extract) & Cannabis (ID 66116)". Erowid.org. Nov 28, 2007. erowid.org/exp/66116
+
+
+
+ 
+
+
+
+
+DOSE: T+ 0:00
+1 hit
+oral
+LSD
+(blotter / tab)
+
+
+  T+ 0:00
+  repeated
+smoked
+Cannabis
+(plant material)
+
+
+  T+ 4:30
+1 hit
+smoked
+Salvia divinorum
+(extract)
+
+
+
+
+
+BODY WEIGHT:
+130 lb
+
+
+
+
+
+This story is not meant to be descriptive of my LSD trip, but more of my Salvia/LSD trip.  I have had many great trips on LSD and Salvia, but this Salvia trip was the utterly most horrifying, yet interesting experience of my entire life.  
+
+I left school and went down to Charlotte, NC, where I had acquired a sheet of some extremely good blotter from a friend.  I decided to ingest some and tried it out with a friend named Cheese.  I was in the perfect mindset considering that my parents were out of town.  My mind was clear and I had no obligations for the next day.  However, Cheese was hesitant to indulge because he had work in the morning.  I practically bugged him into taking it because I did not want to trip alone.  
+
+Time:0:00   We both took a hit knowing that the doses were powerful.  We waited for a while and smoked some pot with my other friend's mother.  We listened to Tom Petty and Bob Dylan for a while, smoking some delicious headies.  
+
+Time:0:45   About forty-five minutes in, I started to feel light and giddy.  Chills ascended up my spine and my brain started to tingle.  We waited and waited for the doses to kick and finally they did.  Both Cheese and I experienced interesting visuals over everything we looked at, giggling and screaming with laughter the entire night.  Everything was going great, like every acid trip until...
+
+Time: 4:30  About four and a half hours into the trip, I busted out some Salvia 35X.  I had never mixed the two before, and was extremely hesitant to do so because I knew it would be mindblowing.  I knew it would either make my trip more enjoyable or more frightening.  After debating and getting distracted by the acid for about 30 minutes, I packed up two seperate bowls of Salvia.  Neither Cheese nor I wished to go first so we decided to rip it at the same time.  We both exhaled, then inhaled as we torched the fuck out of the salvia.  I started counting to 30 and placed my cashed bowl on the TV stand.  It seemed like nothing was happening but then BAM!  I started getting sucked off the bed and on to the ground.  I was gripping the blankets and the mattress for dear life when all of the sudden, I fused together with the bed. Then, I became a blanket.  Our observer said we became extremely spaced out and silent, sparsely saying a word.  I physically could not talk.  Our sitters would ask us questions and I could not understand the alien (human) language they were speaking.  The words that rarely escaped our mouths were, 'Oh fuck,' and 'Holy Shit.'  
+
+Suddenly, everything was transformed and gravity was pulling my body in a vortex.  I physically felt myself being ripped into a kaleidoscopic funnel and it hurt.  It felt as if my skin was splitting and I only existed as a skinny portion of human chunk.  I would try to move, and it would almost be that I would fall into a predetermined place, only to realize that Salvia is not a drug, but a force of extreme power and push.  Utterly frightened, I forgot that I had hit Salvia.  I thought that I was dead and I saw my entire family saddened by my death.  My soul moved out of the back of my head, through the ceiling, and into another voidful dimension.  I existed as nothing for what felt like eternity.  I was thinking, 'Why am I so stupid to mess with both of these powerful hallucinogens!?'  Before hitting the pipe, I knew that this experience could lead to heaven or hell.  I knew this experience would show me the depths of my brain that have never been observed before.  I can not describe the many parts of this trip because it was too confusing and horrifying.
+
+When I started to sober up, my ego had been shattered.  I felt scared shitless and paranoid and I wanted to smoke a ciggarette.  No previous salvia experience had affected my mind this much and I was shocked by the synergestic effects of both the LSD and the Salvia.  I did not talk for about 10 minutes after I sobered up.  I did not feel like it.  All that I knew was that I had just been ripped apart in a spiralistic motion and that Salvia is the most intense drug I had ever tried.  I started thinking, and analyzing my trip, and slowly I began to laugh about how incredibly ridiculous the experience was.  I began to theorize how my brain can stimulate such incredible feelings, emotions, and thoughts.  Surprisingly, me and Cheese discussed our experiences and they were remarkably similar to each other.  This amazed us, possibly because the acid was still going strong.  
+
+The rest of the night was spent in close company of good friends, laughing, joking, and being ridiculously spun.  I began to appreciate the horrifying way of life Salvia had shown me.  Overall, I honestly do not know if I will try this again.  Maybe, because now I know what to prepare for.
+
+
+Exp Year: 2007ExpID: 66116
+Gender: Male 
+Age at time of experience: Not Given 
+Published: Nov 28, 2007Views: 5,720
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

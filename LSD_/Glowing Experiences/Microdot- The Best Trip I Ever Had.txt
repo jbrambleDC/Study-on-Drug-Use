@@ -1,0 +1,333 @@
+
+
+Erowid Experience Vaults: LSD, Cannabis, and Tobacco - Microdot- The Best Trip I Ever Had - 89955
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; width: 610px; border: 1px solid #000000; }
+#message-inner-sm { font: 500 11pt times,serif; padding-left: 4px; padding-right: 4px; padding-top: 6px; padding-bottom: 3px; color: #000000; line-height: 17px; text-align: left; }
+.donate-text { font: 700 10pt arial,sans-serif; color: #222222; }
+
+.paypal-button { padding: 0px; margins: 0px; }
+.paypal-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:36px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.paypal-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.paypal-button:active {
+	position:relative;
+	top:1px;
+}
+
+.cc-button { padding: 0px; margins: 0px; }
+.cc-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:95px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.cc-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.cc-button:active {
+	position:relative;
+	top:1px;
+}
+
+.join-button { padding: 0px; margins: 0px; }
+.join-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.join-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.join-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bitcoin-button { padding: 0px; margins: 0px; }
+.bitcoin-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0f0f0), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #f0f0f0 5%, #d1d1d1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d1d1d1');
+	background-color:#f0f0f0;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #bdbdbd;
+	display:inline-block;
+	color:#222222;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:22px;
+	line-height:22px;
+	width:28px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.bitcoin-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d1d1d1), color-stop(1, #f0f0f0) );
+	background:-moz-linear-gradient( center top, #d1d1d1 5%, #f0f0f0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d1d1d1', endColorstr='#f0f0f0');
+	background-color:#d1d1d1;
+}.bitcoin-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+Dear Erowid Readers: We're a small nonprofit that runs the top drug information website in the world. We have only 4 staff but serve 12 million users, and have costs like any big website: servers, power, office space, programs, and staff. To protect our independence, we don't run ads or take government funds. If everyone reading this gave $3, our fundraising would be done today.  If Erowid is useful to you, take a minute to keep it online and ad-free another year!
+
+
+Donate w/ Paypal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var mTimeExpired = 1414037738000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=245&page_url=/experiences/exp.php&Q&ID=89955&E&"); 
+	}
+
+
+
+
+
+
+Microdot- The Best Trip I Ever Had
+LSD, Cannabis, and Tobacco
+by crystalship
+Citation:   crystalship. "Microdot- The Best Trip I Ever Had: An Experience with LSD, Cannabis, and Tobacco (ID 89955)". Erowid.org. Jul 7, 2012. erowid.org/exp/89955
+
+
+
+ 
+
+
+
+
+DOSE: T+ 0:00
+  
+smoked
+Cannabis
+(plant material)
+
+
+  T+ 2:00
+1 hit
+oral
+LSD
+(pill / tablet)
+
+
+
+
+
+BODY WEIGHT:
+155 lb
+
+
+
+
+
+The best psychedelic experience I ever had was produced by a substance I can't be sure of. My cousin R and I had bought two small orange pills, called Microdot. We assumed it was mescaline in a pill form, but being so young and naive at the time, we didn't really even know what mescaline was. We just wanted to experience a nice high. I had a feeling it would be a very LSD-like experience. R was the same age as I (born five hours before me), and was a close and trusted cousin and friend. My memory has lost some of the details from this night from so long ago, but I do remember the more important aspects. 
+
+We met at some point in the evening at R's small, 70's-retro, but cozy little apartment (fake wood paneled walls, goofy wallpaper, a cheap steel-tube television cart with fake wood platforms and plastic casters, etc.). There were most likely a small group of friends there hanging out for a while with us, probably smoking some marijuana, as we were complete 'heads.' No cable, no internet of course, just a radio with a cassette player was all we had for entertainment.
+
+At some point, maybe sometime after 9, some friends left, and around maybe 10, we ate the microdots, one each for R and myself. I can't remember the wait for the drug to kick in. It may have been around a half an hour or so. We were laughing and joking and having a great time. We probably smoked some more pot, which of course enhanced the pre-peak feeling. Having been through around a half-dozen regular LSD trips before this microdot experience, I knew the good and bad effects of LSD. I had experienced some fear and anxiety before with LSD, but also exhilaration and mellow euphoria. I knew that common factors for having the best experience (environment, friends, even weather) were crucial to avoiding a bummer. 
+
+Further into the night, the great buzz and mellow beauty of the trip intensified, but never awkwardly veered anywhere near bad. After the aforementioned sitting around and laughing period we had, we found ourselves down on the carpet, still giddy and interactive with each other, but in this complete mellow, fantastic, meditative haze. Being a smoker, I had probably blown through a bunch of cigarettes at this point. 
+
+I had brought over with me some music cassettes of The Doors, a couple of live bootlegs I had recorded from a radio broadcast. I popped in one of the cassettes and we just slipped ever so blissfully into a different meditative state, one of great concentration but also relaxation. It is hard to fully describe. We were just lying there, on a carpet, completely comfortable, totally happy, listening to this incredible music, which sounded amazing (and still does). It was way, way past midnight and we were wired yet still peaceful and relaxed.
+
+We may have tried to fall asleep, but we couldn't. We continued laying around on the floor all through the early morning hours, listening to these Doors tapes that seemed to just go on forever. Eventually, a bit of light crept in through the closed venetian blinds. We had stayed awake past dawn. Soon, the golden summer morning light emblazoned the entire window, and the venetian blinds suddenly began to 'flutter' when I looked at them. If I looked up and down the window, the fluttering blinds would move with my eyes. This was the only hallucination or 'visual' I had, or can recall. By this point, we were feeling exhausted as the effects of the microdot were rapidly wearing off. R decided to crash in his bedroom. I walked home, only 1/4 mile away or so, and fell asleep. 
+
+As I write this, nearly 14 years later, I still can't understand what it was R and I had taken. Maybe it was LSD in very pure form, but a smaller dose. Maybe it was mescaline. But after reading a bit on this subject, I have to think it was LSD. The fact that a usable dosage of mescaline could not fit into such a tiny pill affirms that this could not be mescaline.
+
+Yet, this trip was actually very un-LSD like. It didn't have the jaw-clenching, mind-racing intensity, and restlessness of a typical LSD trip. This trip was completely opposite of anything I had experienced before with psychedelics. Mushroom trips I had had were usually topsy turvy, yet generally more mellow than LSD trips. 
+
+But this microdot was fantastic. It was as though my mind was so careless and free that I didn't have any room for negative thinking or anxiety of any kind. What the trip may have lacked in visual colors or hallucinatory visions, it more than made up for in physical and mental wellbeing, even while listening to the often intense Doors music. 
+
+This experience was incredibly fun and worthwhile. I never again tripped on microdot. It was always very hard to find, for whatever reason. I only saw it one other time. Only a few months later, while away at college, I had bought one from somebody. A college friend of mine, a girl whose name I can't remember, had a single blotter hit of LSD. She asked if I'd trade with her, which I did. I dropped the acid that same evening, and she ate the microdot. Unfortunately, she reported to me the next day that the microdot didn't do anything at all. I had a complete psychedelic experience with my hit of LSD, and tripped all night. I felt bad about trading her a bunk microdot, but she reassured me it was all right, as she didn't want to take the LSD she had traded to me anyway. 
+
+I am glad I experienced a microdot, even if it was just that one time. At this point in my life, I have long since ceased using psychedelics and marijuana. Again, out of the many mushroom and LSD trips (mostly mushrooms) I had between 1996 and 2005, this one microdot experience was the best.
+
+
+Exp Year: 1997ExpID: 89955
+Gender: Male 
+Age at time of experience: 19 
+Published: Jul 7, 2012Views: 7,405
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

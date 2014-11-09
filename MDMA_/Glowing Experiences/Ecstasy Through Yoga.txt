@@ -1,0 +1,112 @@
+
+
+Erowid Experience Vaults: MDMA - Ecstasy Through Yoga - 98165
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #ddaa00; border: 1px solid #000000; }
+#message-inner-md { font: 700 12pt georgia,times,serif; color: #000055; }
+#message-inner-sm { font-size: 9pt; color: #000000; }
+
+Thinning Out Your Physical library?
+If you have books about drugs, contribute them to Erowid Center!
+Your old books will find a good home either in our library or with a supporter. [details]
+
+
+
+	var mTimeExpired = 1414036826000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=240&page_url=/experiences/exp.php&Q&ID=98165&E&"); 
+	}
+
+
+
+
+
+
+Ecstasy Through Yoga
+MDMA
+by stars
+Citation:   stars. "Ecstasy Through Yoga: An Experience with MDMA (ID 98165)". Erowid.org. Nov 6, 2012. erowid.org/exp/98165
+
+
+
+ 
+
+
+
+
+DOSE:
+1 tablet
+oral
+MDMA
+(pill / tablet)
+
+
+
+
+
+BODY WEIGHT:
+54 kg
+
+
+
+
+
+I was at an electronic music festival. My friend woke me up earlier that morning, told me to pop a pill cause they were playing some really good music at the main stage. I popped and headed to dance. After a set or two, the music was cut as everybody was advised to go to the chill out area where a yoga session was about to be given.
+
+I changed to more fitting clothes, had a few puffs and when to the chill out area. I had dome some yoga before but never got to fully engage in it. 
+
+As the session began, I started to peak. And with every breathe, posture and position, I felt my body relaxing in to a complete trance-like state. I probably won't be able to describe it but I have never had a clearer understanding of my body and my environment. The positions and stretches made sense and just felt so right. I reached the height of my peak when the instructor struck the sound bowl. A sense of overwhelming positive vibrations, alignment and so much more. 
+
+After that, I realized how hard I was on myself, struggling for perfection when the truth was very simple. Love and light.
+
+
+Exp Year: 2012ExpID: 98165
+Gender: Female 
+Age at time of experience: 23 
+Published: Nov 6, 2012Views: 2,009
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+

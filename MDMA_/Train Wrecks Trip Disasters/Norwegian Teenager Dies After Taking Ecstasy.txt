@@ -1,0 +1,98 @@
+
+
+Erowid Experience Vaults: PMA (Sold as Ecstasy) - Norwegian Teenager Dies After Taking Ecstasy - 2485
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#message { background: #eeaa00; border: 1px solid #000000; }
+#message-inner-md { font: 700 13pt arial,sans-serif; letter-spacing: .05em; color: #111111; }
+#message-inner-sm { font: 700 9pt arial,sans-serif; color: #111111; padding-top: 8px; }
+
+Donate $125 and get a fantastic hand-made glass molecule.
+(Choose from chemicals like serotonin, caffeine, mescaline, DMT, or MDMA!)
+
+
+
+	var mTimeExpired = 1414037197000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=85&page_url=/experiences/exp.php&Q&ID=2485&E&"); 
+	}
+
+
+
+
+
+
+Norwegian Teenager Dies After Taking Ecstasy
+PMA (Sold as Ecstasy)
+by Filijokus
+Citation:   Filijokus. "Norwegian Teenager Dies After Taking Ecstasy: An Experience with PMA (Sold as Ecstasy) (ID 2485)". Erowid.org. Sep 19, 2000. erowid.org/exp/2485
+
+
+
+ 
+
+
+
+
+
+
+A 17-year-old girl from Oslo died late Sunday night after taking a toxic ecstasy tablet one week earlier. It's suspected that the 'Mitsubishi' pill she had taken may have contained a cheap but deadly amphetamine substitute, PMA. 
+
+The teenager went into a coma last Sunday and was taken to Buskerud central hospital. She never regained consciousness. 
+
+Light-brown tablets were discovered in her jacket pocket with a Mitsubishi car logo on one side and a cross on the other. 
+
+White tablets with the same markings have claimed the lives of two men in Denmark this summer. Theses pills contained the amphetamine substitute known as PMA, or 4 methoxy metamphetamine. 
+
+The tablets found on the girl have not yet been analysed.
+
+
+Exp Year: 2000ExpID: 2485
+Gender: Female 
+Age at time of experience: Not Given 
+Published: Sep 19, 2000Views: 32,991
+[ View as PDF (for printing) ] [ View as LaTeX (for geeks) ]
+[ Switch Colors ]
+
+
+
+ 
+
+
+
+Experience Reports are the writings and opinions of the individual authors who submit them.
+Some of the activities described are dangerous and/or illegal and none are recommended by Erowid Center.
+
+
+
+Erowid Experience Vault
+© 1995-2014 Erowid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
